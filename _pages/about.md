@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Temporary Website"
+title: "Homepage of Wonseok Choi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 This is my temporary website.
 ======
