@@ -9,15 +9,17 @@ redirect_from:
 ---
 
 This is my temporary website.
+======
+
 
 Previous Homepage
-======
-You can find my previous homepage [here](https://sites.google.com/view/choiwonseok/home) .
+------
+You can find my previous homepage [here](https://sites.google.com/view/choiwonseok/home).
 
 
 
 My research interests include 
-======
+------
 1. Cryptography including symmetric-key, public-key, primitive design, and provable security
 
 1. Secure multi-party computation
@@ -28,9 +30,9 @@ My research interests include
 
 
 
-Latest News
-======
-(Oct. 2023)	Win a First Prize from the National Cryptography Contest (Korea) with Minki, Yu, and Vassilis!
+**Latest News**
+
+(Oct. 2023)	Win a First Prize from the National Cryptography Contest (Korea) with [Minki](https://hhanmk.github.io/), Yu, and Vassilis!
 
 (Jun. 2023)	Proud to be a recipient of the Sejong Science Fellowship, one of the most prestigious fellowships in Korea.
 
@@ -39,9 +41,3 @@ Latest News
 (May. 2023)	I gave a talk at National Technical University of Athens (NTUA) about a new technique to prove multi-user security. 
 
 
-#small title
-#------
-#small contents
-
-#**smaller title**
-#contents
