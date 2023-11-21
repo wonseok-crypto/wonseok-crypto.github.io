@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wonseok Choi"
 title_separator          : "-"
-name                     : &name "Wonseok Choi (최원석, 崔元碩)"
+name                     : &name "Wonseok Choi"
 description              : &description "Post-Doc @ The Purdue Blockchain Lab hosted by Professor Vassilis Zikas"
 url                      : https://wonseok-crypto.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Wonseok Choi(최원석, 崔元碩)"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
