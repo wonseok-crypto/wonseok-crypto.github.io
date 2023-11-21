@@ -83,7 +83,7 @@ author:
   name             : "Wonseok Choi (최원석, 崔元碩)"
   avatar           : "내사진.jpg"
   bio              : "Post-Doc @ The Purdue Blockchain Lab hosted by Professor Vassilis Zikas"
-  location         : "HaaS 273, Purdue University"
+  location         : "HaaS 273, Purdue Univ."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rYa9OSYAAAAJ&hl=en"
@@ -116,7 +116,7 @@ author:
   youtube          :
   wikipedia        :
   dblp             : "https://dblp.org/pid/79/8377-2.html"
-  Cryptodb         : "https://iacr.org/cryptodb/data/author.php?authorkey=11218"
+  cryptodb         : "https://iacr.org/cryptodb/data/author.php?authorkey=11218"
 
 
 # Reading Files
