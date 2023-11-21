@@ -115,8 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  DBLP             : "https://dblp.org/pid/79/8377-2.html"
-  CryptoDB         : "https://iacr.org/cryptodb/data/author.php?authorkey=11218"
+  dblp             : "https://dblp.org/pid/79/8377-2.html"
+  Cryptodb         : "https://iacr.org/cryptodb/data/author.php?authorkey=11218"
 
 
 # Reading Files
