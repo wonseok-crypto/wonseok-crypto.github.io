@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ The Purdue Blockchain Lab hosted by Professor Vassilis Zikas
 
 This is my temporary website.
 ======
