@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wonseok Choi(최원석, 崔元碩)"
+  name             : "Wonseok Choi (최원석, 崔元碩)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Post-Doc @ The Purdue Blockchain Lab hosted by Professor Vassilis Zikas"
+  location         : "HaaS 273, Purdue University West Lafayette"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=rYa9OSYAAAAJ&hl=en"
+  email            : "(first name) at purdue dot edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,25 +96,27 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  DBLP             : "https://dblp.org/pid/79/8377-2.html"
+  CryptoDB         : "https://iacr.org/cryptodb/data/author.php?authorkey=11218"
 
 
 # Reading Files
