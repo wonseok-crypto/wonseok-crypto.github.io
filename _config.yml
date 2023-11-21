@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wonseok Choi (최원석, 崔元碩)"
+  name             : "Wonseok Choi      (최원석, 崔元碩)"
   avatar           : "profile.png"
   bio              : "Post-Doc @ The Purdue Blockchain Lab hosted by Professor Vassilis Zikas"
-  location         : "HaaS 273, Purdue University West Lafayette"
+  location         : "HaaS 273, Purdue University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rYa9OSYAAAAJ&hl=en"
-  email            : "(first name) at purdue dot edu"
+  email            : "wonseok@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,8 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-#  DBLP             : "https://dblp.org/pid/79/8377-2.html"
-#  CryptoDB         : "https://iacr.org/cryptodb/data/author.php?authorkey=11218"
+  DBLP             : "https://dblp.org/pid/79/8377-2.html"
+  CryptoDB         : "https://iacr.org/cryptodb/data/author.php?authorkey=11218"
 
 
 # Reading Files
