@@ -98,5 +98,7 @@ National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 Review
 -----
 Review: FSE 2024
+
 Subreview: Eurocrypt 2024, ACNS 2023, Eurocrypt 2023, and Latincrypt 2023
+
 External Review: FSE 2022, Asiacrypt 2020, Asiacrypt 2019, ICISC 2018, and ProvSec 2018 
