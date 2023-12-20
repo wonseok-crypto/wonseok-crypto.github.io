@@ -71,27 +71,27 @@ ToSC 2023/2024 / FSE 2024
 
 Talk
 -----
-“Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs”
-Invited Talk at ASK 2023, Guangzhou (China), Dec. 2023.
+“Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs”\
+Invited Talk at ASK 2023, Guangzhou (China), Dec. 2023.\
 Invited Talk at DESILO, Seoul (Korea), Dec. 2023.
 
-“Improved Multi-User Security Using the Squared-Ratio Method”
-CRYPTO 2023, Santa Barbara (CA), Aug. 2023.
-Athecrypt 2023, Athens (Greece), May. 2023.
+“Improved Multi-User Security Using the Squared-Ratio Method”\
+CRYPTO 2023, Santa Barbara (CA), Aug. 2023.\
+Athecrypt 2023, Athens (Greece), May. 2023.\
 Invited Talk at NEC Core Technology Forum, Kanagawa (Japan), Dec. 2022.
 
-“Multi-User Security of the Sum of Truncated Random Permutations”
-ASIACRYPT 2022, Taipei (Taiwan), Dec. 2022.
+“Multi-User Security of the Sum of Truncated Random Permutations”\
+ASIACRYPT 2022, Taipei (Taiwan), Dec. 2022.\
 2022 Global KMS International Conference, Seoul (Korea), Oct. 2022.
 
-“Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”
-2022 KMS Spring Meeting, Online, Apr. 2022.
-Security@KAIST Student Research Presentation, Online, Nov. 2021.
+“Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”\
+2022 KMS Spring Meeting, Online, Apr. 2022.\
+Security@KAIST Student Research Presentation, Online, Nov. 2021.\
 National Cryptography Contest Awards, Seoul (Korea), Oct. 2021.
 
-“Indifferentiability of Truncated Random Permutations”
-ASIACRYPT 2019, Kobe (Japan), Dec. 2019.
-Invited Talk at Korea Cryptography Forum Workshop, Gyeonggi (Korea), May. 2019.
+“Indifferentiability of Truncated Random Permutations”\
+ASIACRYPT 2019, Kobe (Japan), Dec. 2019.\
+Invited Talk at Korea Cryptography Forum Workshop, Gyeonggi (Korea), May. 2019.\
 National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 
