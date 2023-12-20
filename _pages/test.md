@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "Test title"
-excerpt: "test"
+layout: archive
+title: "test"
+permalink: /test/
 author_profile: true
-redirect_from: 
-  - /test/
-  - /test.html
 ---
 
 
