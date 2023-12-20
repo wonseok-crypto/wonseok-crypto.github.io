@@ -177,9 +177,6 @@ kramdown:
 
 # Collections
 collections:
-  test:
-    output: true
-    permalink: /:collection/:path/
 #  teaching:
 #    output: true
 #    permalink: /:collection/:path/
@@ -203,15 +200,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _test
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
