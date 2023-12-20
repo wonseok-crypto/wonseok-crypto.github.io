@@ -10,16 +10,6 @@ redirect_from:
 
 My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockchain Lab](https://www.cs.purdue.edu/blockchain/index.html) hosted by [Professor Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/)
 
-This is my new website
-======
-This is a temporary version of my homepage and will be upgraded! I intend to use this address permanently from now on (11/21/2023).
-
-
-Previous Homepage
-------
-You can find my previous homepage [here](https://sites.google.com/view/choiwonseok/home).
-
-
 
 My research interests include 
 ------
@@ -35,12 +25,14 @@ My research interests include
 
 Latest News
 ------
+(Nov./Dec. 2023) I talked at [ASK](https://askworkshop.github.io/ask2023/) and [DESILO](https://desilo.ai/?lng=en) about fine-tuning ideal worlds. 
+
 (Oct. 2023)	Win a **First Prize** from the National Cryptography Contest (Korea) with [Minki](https://hhanmk.github.io/), Yu, and Vassilis!
 
 (Jun. 2023)	Proud to be a recipient of the **Sejong Science Fellowship**, one of the most prestigious fellowships in Korea.
 
-(Jun. 2023)	My paper on a new technique to prove multi-user security was accepted to **CRYPTO 2023**.
+#(Jun. 2023)	My paper on a new technique to prove multi-user security was accepted to **CRYPTO 2023**.
 
-(May. 2023)	I gave a talk at National Technical University of Athens (NTUA) about a new technique to prove multi-user security. 
+#(May. 2023)	I gave a talk at National Technical University of Athens (NTUA) about a new technique to prove multi-user security. 
 
 
