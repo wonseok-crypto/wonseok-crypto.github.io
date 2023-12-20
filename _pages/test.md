@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-It is a test page.
+It is a test page (2).
