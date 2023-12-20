@@ -53,12 +53,12 @@ Wonseok Choi, Byeonghak Lee, and Jooyoung Lee, “Indifferentiability of Truncat
 
 Grants
 -----
-**Sejong Science Fellowship** (140 million KRW, Sep. 2023 - Aug. 2025)
-“Building Efficient Symmetric-Key Primitives for Secure Multi-Party Computation” 
+**Sejong Science Fellowship** (140 million KRW, Sep. 2023 - Aug. 2025)\
+“Building Efficient Symmetric-Key Primitives for Secure Multi-Party Computation”\
 Supported by National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)
 
-KIAS Individual Grant (22.5 million KRW, Sep. 2022 - Mar. 2023)
-“Designing and Analysis of Cryptographic Pseudorandom Functions” 
+KIAS Individual Grant (22.5 million KRW, Sep. 2022 - Mar. 2023)\
+“Designing and Analysis of Cryptographic Pseudorandom Functions”\
 Supported by Korea Institute for Advanced Study
 
 *1 million KRW ≈ 800 USD
