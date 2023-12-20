@@ -31,8 +31,5 @@ Latest News
 
 (Jun. 2023)	Proud to be a recipient of the **Sejong Science Fellowship**, one of the most prestigious fellowships in Korea.
 
-#(Jun. 2023)	My paper on a new technique to prove multi-user security was accepted to **CRYPTO 2023**.
-
-#(May. 2023)	I gave a talk at National Technical University of Athens (NTUA) about a new technique to prove multi-user security. 
-
+(Jun. 2023)	My paper on a new technique to prove multi-user security was accepted to **CRYPTO 2023**.
 
