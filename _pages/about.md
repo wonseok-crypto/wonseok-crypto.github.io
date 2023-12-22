@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JHRBWEZGL8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JHRBWEZGL8');
+</script>
 
 My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockchain Lab](https://www.cs.purdue.edu/blockchain/index.html) hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). I am extending my research field and working on various projects on provable security and designing protocols for symmetric-key cryptography, multi-party computation, blockchain, etc.
 Previously, I was a postdoc at KIAS (Korea Institute for Advanced Study) for a short period mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
