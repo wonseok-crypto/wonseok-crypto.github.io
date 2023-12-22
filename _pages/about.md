@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockchain Lab](https://www.cs.purdue.edu/blockchain/index.html) hosted by [Professor Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/)
+My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockchain Lab](https://www.cs.purdue.edu/blockchain/index.html) hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). I am extending my research field and working on various projects on provable security and designing protocols for symmetric-key cryptography, multi-party computation, blockchain, etc.
+Previously, I was a postdoc at KIAS (Korea Institute for Advanced Study) for a short period mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
+
+I received my Ph.D. from KAIST (Korea Advanced Institute of Science and Technology), where I was fortunate to be advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography: improving security analyses of several symmetric-key algorithms and proposing new constructions such as pseudorandom functions, message authentication codes, and authenticated encryptions with associated data.
+
+Before studying cryptography, I majored in mathematics for both my master's and bachelor's degrees at KAIST. I am still enjoying solving math quizzes!
 
 
 My research interests include 
@@ -72,8 +77,8 @@ ToSC 2023/2024 / FSE 2024
 Talk
 -----
 “Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs”\
-Invited Talk at ASK 2023, Guangzhou (China), Dec. 2023.\
-Invited Talk at DESILO, Seoul (Korea), Dec. 2023.
+Invited Talk at DESILO, Seoul (Korea), Dec. 2023.\
+Invited Talk at ASK 2023, Guangzhou (China), Dec. 2023.
 
 “Improved Multi-User Security Using the Squared-Ratio Method”\
 CRYPTO 2023, Santa Barbara (CA), Aug. 2023.\
@@ -97,8 +102,6 @@ National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 Review
 -----
-Review: FSE 2024
-
-Subreview: Eurocrypt 2024, ACNS 2023, Eurocrypt 2023, and Latincrypt 2023
-
+Review: FSE 2024\
+Subreview: Eurocrypt 2024, ACNS 2023, Eurocrypt 2023, and Latincrypt 2023\
 External Review: FSE 2022, Asiacrypt 2020, Asiacrypt 2019, ICISC 2018, and ProvSec 2018 
