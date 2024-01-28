@@ -30,6 +30,8 @@ My research interests include
 
 Latest News
 ------
+(Jan. 2024)	My paper on constructing PRFs from tweakable PRPs was accepted to *ToSC 2024(1) / FSE 2024*.
+
 (Dec. 2023) I talked at [ASK](https://askworkshop.github.io/ask2023/) and [DESILO](https://desilo.ai/?lng=en) about fine-tuning ideal worlds. 
 
 (Oct. 2023)	Win a **First Prize** from the National Cryptography Contest (Korea) with [Minki](https://hhanmk.github.io/), Yu, and Vassilis!
@@ -41,6 +43,8 @@ Latest News
 
 Publication List
 -----
+Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”, *ToSC 2024(1) / FSE 2024*.
+
 Yu Long Chen, Wonseok Choi, and Changmin Lee, “Improved Multi-User Security Using the Squared-Ratio Method”, **CRYPTO 2023**.
 
 Wonseok Choi, Hwigyeom Kim, Jooyoung Lee, and Yeongmin Lee, “Multi-User Security of the Sum of Truncated Random Permutations”, **ASIACRYPT 2022**.
@@ -74,7 +78,7 @@ Editorial Board / Program Committee
 ToSC 2023/2024 / FSE 2024
 
 
-Talk
+Talks
 -----
 “Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs”\
 Invited Talk at DESILO, Seoul (Korea), Dec. 2023.\
@@ -100,7 +104,7 @@ Invited Talk at Korea Cryptography Forum Workshop, Gyeonggi (Korea), May. 2019.\
 National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 
-Review
+Reviews
 -----
 Review: FSE 2024\
 Subreview: Eurocrypt 2024, ACNS 2023, Eurocrypt 2023, and Latincrypt 2023\
