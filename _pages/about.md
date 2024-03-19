@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockchain Lab](https://www.cs.purdue.edu/blockchain/index.html) hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). Expanding my research field, I am currently involved in multiple projects, focusing on two main areas: 1) provable security and 2) designing protocols for multi-party computation, blockchain, etc.
+My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockchain Lab](https://www.cs.purdue.edu/blockchain/index.html) hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). I am currently involved in multiple projects, focusing on two main areas: 1) provable security and 2) designing protocols for multi-party computation, blockchain, etc.
 Previously, I was a postdoc at KIAS (Korea Institute for Advanced Study) for a short period, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
 
 I received my Ph.D. from KAIST (Korea Advanced Institute of Science and Technology), where I was fortunate to be advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography: improving security analyses of several symmetric-key algorithms and proposing new constructions such as pseudorandom functions, message authentication codes, and authenticated encryptions with associated data.
@@ -20,16 +20,17 @@ My research interests include
 ------
 1. Cryptography including symmetric-key, public-key, primitive design, and provable security
 
-1. Secure multi-party computation
-
-1. Blockchain
-
+1. Secure multi-party computation and blockchain
+   
 1. Related topics in cryptology, combinatorics, and game theory
 
 
 
 Latest News
 ------
+
+(Mar. 2024)	I will talk at Radboud University and FSE 2024 soon!
+
 (Jan. 2024)	My paper on constructing PRFs from tweakable PRPs was accepted to *ToSC 2024(1) / FSE 2024*.
 
 (Dec. 2023) I talked at [ASK](https://askworkshop.github.io/ask2023/) and [DESILO](https://desilo.ai/?lng=en) about fine-tuning ideal worlds. 
@@ -75,12 +76,14 @@ Supported by Korea Institute for Advanced Study
 
 Editorial Board / Program Committee
 -----
+ToSC 2024/2025 / FSE 2025
 ToSC 2023/2024 / FSE 2024
 
 
 Talks
 -----
-“Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs”\
+“On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”\
+Invited Talk at Radbound University, Nijmegen (the Netherlands), Mar. 2024.\
 Invited Talk at DESILO, Seoul (Korea), Dec. 2023.\
 Invited Talk at ASK 2023, Guangzhou (China), Dec. 2023.
 
@@ -94,6 +97,7 @@ ASIACRYPT 2022, Taipei (Taiwan), Dec. 2022.\
 2022 Global KMS International Conference, Seoul (Korea), Oct. 2022.
 
 “Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”\
+FSE 2024, Leuven (Belgium), Mar. 2024.\
 2022 KMS Spring Meeting, Online, Apr. 2022.\
 Security@KAIST Student Research Presentation, Online, Nov. 2021.\
 National Cryptography Contest Awards, Seoul (Korea), Oct. 2021.
@@ -106,6 +110,10 @@ National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 Reviews
 -----
-Review: FSE 2024\
-Subreview: Eurocrypt 2024, ACNS 2023, Eurocrypt 2023, and Latincrypt 2023\
-External Review: FSE 2022, Asiacrypt 2020, Asiacrypt 2019, ICISC 2018, and ProvSec 2018 
+Review: FSE 2025 (ToSC 2024/2025), FSE 2024 (ToSC 2023/2024)\
+Subreview: Crypto 2024, Eurocrypt 2024, ACNS 2023, Eurocrypt 2023, and Latincrypt 2023\
+External Review: FSE 2022, Asiacrypt 2020, Asiacrypt 2019, ICISC 2018, and ProvSec 2018\
+
+
+
+Last Update: 19/MAR/2024
