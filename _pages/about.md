@@ -11,11 +11,11 @@ redirect_from:
 Hi!
 
 My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockchain Lab](https://www.cs.purdue.edu/blockchain/index.html) hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). I am currently involved in multiple projects, focusing on two main areas: 1) mathematical analysis of algorithms and protocols and 2) designing algorithms and protocols for multi-party computation, blockchain, etc.
-Previously, I was a postdoc at KIAS (Korea Institute for Advanced Study) for a half year, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
+Previously, I was a research fellow at KIAS (Korea Institute for Advanced Study) for a half year, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
 
 I received my Ph.D. from KAIST (Korea Advanced Institute of Science and Technology), where I was fortunate to be advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography: improving security analyses of several symmetric-key algorithms and proposing new constructions such as pseudorandom functions, message authentication codes, and authenticated encryptions with associated data.
 
-Before studying cryptography, I majored in mathematics for both my master's and bachelor's degrees at KAIST. I am still enjoying solving math quizzes!
+Before studying cryptography, I majored in mathematics at KAIST for my master's and bachelor's degrees. I still enjoy solving math quizzes!
 
 
 My research interests include 
@@ -31,18 +31,21 @@ My research interests include
 Latest News
 ------
 
-(Mar. 2024)	I will talk at Radboud University and FSE 2024 soon!
+(Apr. 2024)	I am planning to visit the University of Cincinnati during the third week of this month to collaborate with [Seungki Kim](https://sites.google.com/view/seungki/).
+
+(Mar. 2024)	I talked at [Digital Security Group, Radboud University](https://www.ru.nl/dis/) and [FSE 2024](https://fse.iacr.org/2024/) about building PRFs from TPRPs.
 
 (Jan. 2024)	My paper on constructing PRFs from tweakable PRPs was accepted to *ToSC 2024(1) / FSE 2024*.
 
-(Dec. 2023) I talked at [ASK](https://askworkshop.github.io/ask2023/) and [DESILO](https://desilo.ai/?lng=en) about fine-tuning ideal worlds. 
+(Dec. 2023) I talked at [ASK 2024](https://askworkshop.github.io/ask2023/) and [DESILO](https://desilo.ai/?lng=en) about fine-tuning overidealized ideal worlds. 
 
+<!---
 (Oct. 2023)	Win a **First Prize** from the National Cryptography Contest (Korea) with [Minki](https://hhanmk.github.io/), Yu, and Vassilis!
 
 (Jun. 2023)	Proud to be a recipient of the **Sejong Science Fellowship**, one of the most prestigious fellowships in Korea.
 
 (Jun. 2023)	My paper on a new technique to prove multi-user security was accepted to **CRYPTO 2023**.
-
+-->
 
 Publication List
 -----
@@ -78,6 +81,7 @@ Supported by Korea Institute for Advanced Study
 
 Editorial Board / Program Committee
 -----
+ISC 2024\
 ToSC 2024/2025 / FSE 2025\
 ToSC 2023/2024 / FSE 2024
 
@@ -112,10 +116,10 @@ National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 Reviews
 -----
-Review: FSE 2025 (ToSC 2024/2025), FSE 2024 (ToSC 2023/2024)\
+Review: ISC 2024, FSE 2025 (ToSC 2024/2025), FSE 2024 (ToSC 2023/2024)\
 Subreview: CRYPTO 2024, EUROCRYPT 2024, ACNS 2023, EUROCRYPT 2023, and Latincrypt 2023\
 External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvSec 2018
 
 
 
-Last Update: 19/MAR/2024
+Last Update: 2/APR/2024
