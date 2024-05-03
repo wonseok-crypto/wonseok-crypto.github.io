@@ -31,15 +31,18 @@ My research interests include
 Latest News
 ------
 
-(Apr. 2024)	I am planning to visit the University of Cincinnati during the third week of this month to collaborate with [Seungki Kim](https://sites.google.com/view/seungki/).
+(May. 2024) My paper about the committing security of MACs was accepted to CRYPTO 2024! This is joint work with fantastic colleagues who met at [ASK 2024](https://askworkshop.github.io/ask2023/).
+
+(Apr. 2024)	I visited the University of Cincinnati during the third week of this month to collaborate with [Seungki Kim](https://sites.google.com/view/seungki/).
 
 (Mar. 2024)	I talked at [Digital Security Group, Radboud University](https://www.ru.nl/dis/) and [FSE 2024](https://fse.iacr.org/2024/) about building PRFs from TPRPs.
 
+
+<!---
 (Jan. 2024)	My paper on constructing PRFs from tweakable PRPs was accepted to *ToSC 2024(1) / FSE 2024*.
 
 (Dec. 2023) I talked at [ASK 2024](https://askworkshop.github.io/ask2023/) and [DESILO](https://desilo.ai/?lng=en) about fine-tuning overidealized ideal worlds. 
 
-<!---
 (Oct. 2023)	Win a **First Prize** from the National Cryptography Contest (Korea) with [Minki](https://hhanmk.github.io/), Yu, and Vassilis!
 
 (Jun. 2023)	Proud to be a recipient of the **Sejong Science Fellowship**, one of the most prestigious fellowships in Korea.
