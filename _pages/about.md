@@ -52,6 +52,8 @@ Latest News
 
 Publication List
 -----
+Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, J\'er\^ome Govinden, and Yaobin Shen, “The Committing Security of MACs with Applications to Generic Composition'”, **CRYPTO 2024**.
+
 Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”, *ToSC 2024(1) / FSE 2024*.
 
 Yu Long Chen, Wonseok Choi, and Changmin Lee, “Improved Multi-User Security Using the Squared-Ratio Method”, **CRYPTO 2023**.
