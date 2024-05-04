@@ -15,7 +15,7 @@ My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockch
 
 1. designing algorithms and protocols for multi-party computation, blockchain, etc.
 
-More importantly, I aim to establish precise security models or requirements for given problems, define appropriate notions, and conduct thorough analyses.
+More importantly, I aim to establish the precise security model or requirements for each problem, define appropriate notions, and conduct a thorough analysis.
 Previously, I was a research fellow at KIAS (Korea Institute for Advanced Study) for a half year, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
 
 I received my Ph.D. from KAIST (Korea Advanced Institute of Science and Technology), where I was fortunate to be advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography: improving security analyses of several symmetric-key algorithms and proposing new constructions such as pseudorandom functions, message authentication codes, and authenticated encryptions with associated data.
