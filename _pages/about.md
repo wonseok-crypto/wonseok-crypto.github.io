@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Wonseok's Homepage"
+excerpt: "Wonseok's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -73,7 +73,7 @@ Wonseok Choi, Byeonghak Lee, and Jooyoung Lee, “Indifferentiability of Truncat
 
 Preprint
 -----
-Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, [Eprint:2023/1881](https://eprint.iacr.org/2023/1881)
+Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, [Eprint:2023/1881](https://eprint.iacr.org/2023/1881).
 
 Wonseok Choi, Minki Hhan, Yu Wei, and Vassilis Zikas, “On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”, [Eprint:2023/1704](https://eprint.iacr.org/2023/1704).
 
@@ -135,4 +135,4 @@ External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvS
 
 
 
-Last Update: 3/MAY/2024
+Last Update: 4/MAY/2024
