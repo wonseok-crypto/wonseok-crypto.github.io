@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockchain Lab](https://www.cs.purdue.edu/blockchain/index.html) hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). I am currently involved in multiple projects, focusing on two main areas: 1) mathematical analysis of algorithms and protocols and 2) designing algorithms and protocols for multi-party computation, blockchain, etc.
+My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockchain Lab](https://www.cs.purdue.edu/blockchain/index.html) hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). I am currently involved in multiple projects, focusing on two main areas: 1) security analysis/proof of algorithms and protocols and 2) designing algorithms and protocols for multi-party computation, blockchain, etc.
 Previously, I was a research fellow at KIAS (Korea Institute for Advanced Study) for a half year, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
 
 I received my Ph.D. from KAIST (Korea Advanced Institute of Science and Technology), where I was fortunate to be advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography: improving security analyses of several symmetric-key algorithms and proposing new constructions such as pseudorandom functions, message authentication codes, and authenticated encryptions with associated data.
@@ -31,7 +31,7 @@ My research interests include
 Latest News
 ------
 
-(May. 2024) My paper about the committing security of MACs was accepted to CRYPTO 2024! This is joint work with fantastic colleagues who met at [ASK 2024](https://askworkshop.github.io/ask2023/).
+(May. 2024) My paper about the committing security of MACs was accepted to CRYPTO 2024! This is a joint work with my fantastic group of [ASK 2024](https://askworkshop.github.io/ask2023/).
 
 (Apr. 2024)	I visited the University of Cincinnati during the third week of this month to collaborate with [Seungki Kim](https://sites.google.com/view/seungki/).
 
@@ -71,6 +71,13 @@ Jincheol Ha, Seongkwang Kim, Wonseok Choi, Jooyoung Lee, Dukjae Moon, Hyojin Yoo
 Wonseok Choi, Byeonghak Lee, and Jooyoung Lee, “Indifferentiability of Truncated Random Permutations”, **ASIACRYPT 2019**.
 
 
+Preprint
+-----
+Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, [Eprint:2023/1881](https://eprint.iacr.org/2023/1881)
+
+Wonseok Choi, Minki Hhan, Yu Wei, and Vassilis Zikas, “On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”, [Eprint:2023/1704](https://eprint.iacr.org/2023/1704).
+
+
 Grants
 -----
 **Sejong Science Fellowship** (140 million KRW, Sep. 2023 - Aug. 2025)\
@@ -86,8 +93,9 @@ Supported by Korea Institute for Advanced Study
 
 Editorial Board / Program Committee
 -----
-ISC 2024\
 ToSC 2024/2025 / FSE 2025\
+ASIACRYPT 2024\
+ISC 2024\
 ToSC 2023/2024 / FSE 2024
 
 
@@ -121,10 +129,10 @@ National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 Reviews
 -----
-Review: ISC 2024, FSE 2025 (ToSC 2024/2025), FSE 2024 (ToSC 2023/2024)\
+Review: FSE 2025 (ToSC 2024/2025), ASIACRYPT 2024, ISC 2024, FSE 2024 (ToSC 2023/2024)\
 Subreview: CRYPTO 2024, EUROCRYPT 2024, ACNS 2023, EUROCRYPT 2023, and Latincrypt 2023\
 External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvSec 2018
 
 
 
-Last Update: 2/APR/2024
+Last Update: 3/MAY/2024
