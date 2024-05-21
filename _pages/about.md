@@ -60,6 +60,8 @@ Latest News
 
 Publication List
 -----
+Wonseok Choi, Seongha Hwang, Byeonghak Lee, and Jooyoung Lee, ``ZLR: A Fast Online Authenticated Encryption Achieving Full Security'', DCC 2024.
+
 Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, Jérôme Govinden, and Yaobin Shen, “The Committing Security of MACs with Applications to Generic Composition'”, **CRYPTO 2024**.
 
 Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”, *ToSC 2024(1) / FSE 2024*.
@@ -143,4 +145,4 @@ External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvS
 
 
 
-Last Update: 4/MAY/2024
+Last Update: 21/MAY/2024
