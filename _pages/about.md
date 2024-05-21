@@ -36,7 +36,7 @@ My research interests include
 Latest News
 ------
 
-(May. 2024) My paper proposing new TBC-based AEADs was accepted to DCC with my colleagues in KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home).
+(May. 2024) My paper proposing new TBC-based AEADs was accepted to DCC with my great colleagues in KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home).
 
 (May. 2024) My paper about the committing security of MACs was accepted to CRYPTO 2024! This is a joint work with my fantastic group of [ASK 2024](https://askworkshop.github.io/ask2023/).
 
