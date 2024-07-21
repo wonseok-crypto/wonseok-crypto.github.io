@@ -36,15 +36,18 @@ My research interests include
 Latest News
 ------
 
+(Jul. 2024) I appreciate my co-authors for the work on efficient tweakable block ciphers accepted to ProvSec 2024.
+
 (May. 2024) My paper proposing new TBC-based AEADs was accepted to DCC with my great colleagues in KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home).
 
 (May. 2024) My paper about the committing security of MACs was accepted to CRYPTO 2024! This is a joint work with my fantastic group of [ASK 2024](https://askworkshop.github.io/ask2023/).
 
-(Apr. 2024)	I visited the University of Cincinnati during the third week of this month to collaborate with [Seungki Kim](https://sites.google.com/view/seungki/).
 
 
 
 <!---
+(Apr. 2024)	I visited the University of Cincinnati during the third week of this month to collaborate with [Seungki Kim](https://sites.google.com/view/seungki/).
+
 (Mar. 2024)	I talked at [Digital Security Group, Radboud University](https://www.ru.nl/dis/) and [FSE 2024](https://fse.iacr.org/2024/) about building PRFs from TPRPs.
 
 (Jan. 2024)	My paper on constructing PRFs from tweakable PRPs was accepted to *ToSC 2024(1) / FSE 2024*.
