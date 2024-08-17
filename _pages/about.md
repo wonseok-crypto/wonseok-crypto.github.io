@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc @ [The Purdue Blockchain Lab](https://www.cs.purdue.edu/blockchain/index.html) hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). I am working on multiple research topics, focusing on two main areas: 
+My name is Wonseok Choi (최원석, 崔元碩), a Post-Doc at Purdue University and GeorgiaTech hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). I am working on multiple research topics, focusing on two main areas: 
 1. security analysis/proof of algorithms and protocols and 
 
 1. designing algorithms and protocols for multi-party computation, blockchain, etc.
