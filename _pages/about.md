@@ -63,6 +63,8 @@ Latest News
 
 Publication List
 -----
+Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Tight Security of Double-Block Nonce-Based MACs”, **ASIACRYPT 2024**.
+
 Ritam Bhaumik, Wonseok Choi, Avijit Dutta, Cuauhtemoc Mancillas Lopez, Hrithik Nandi, and Yaobin Shen, “Efficient Variants of TNT with BBB Security”, ProvSec 2024.
 
 Wonseok Choi, Seongha Hwang, Byeonghak Lee, and Jooyoung Lee, “ZLR: A Fast Online Authenticated Encryption Achieving Full Security”, DCC 2024.
