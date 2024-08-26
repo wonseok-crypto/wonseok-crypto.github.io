@@ -90,13 +90,12 @@ Wonseok Choi, Byeonghak Lee, and Jooyoung Lee, “Indifferentiability of Truncat
 
 Preprint
 -----
-Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Tight Security of Double-Block Nonce-Based MACs”, [Eprint:2024/731](https://eprint.iacr.org/2024/731).
-
 Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, [Eprint:2023/1881](https://eprint.iacr.org/2023/1881).
 
 Wonseok Choi, Minki Hhan, Yu Wei, and Vassilis Zikas, “On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”, [Eprint:2023/1704](https://eprint.iacr.org/2023/1704).
 
 
+<!---
 Grants
 -----
 **Sejong Science Fellowship** (140 million KRW, Sep. 2023 - Aug. 2025)\
@@ -108,7 +107,7 @@ KIAS Individual Grant (22.5 million KRW, Sep. 2022 - Mar. 2023)\
 Supported by Korea Institute for Advanced Study
 
 *1 million KRW ≈ 800 USD
-
+-->
 
 Editorial Board / Program Committee
 -----
