@@ -35,10 +35,11 @@ My research interests include
 
 Latest News
 ------
+(Aug. 2024) My paper on tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) has been accepted at ASIACRYPT 2024.
 
 (Jul. 2024) I appreciate my co-authors for the work on efficient tweakable block ciphers accepted to ProvSec 2024.
 
-(May. 2024) My paper proposing new TBC-based AEADs was accepted to DCC with my great colleagues in KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home).
+(May. 2024) My paper proposing new TBC-based AEADs has been accepted to DCC with my great colleagues in KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home).
 
 (May. 2024) My paper about the committing security of MACs was accepted to CRYPTO 2024! This is a joint work with my fantastic group of [ASK 2024](https://askworkshop.github.io/ask2023/).
 
