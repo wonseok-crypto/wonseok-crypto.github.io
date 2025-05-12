@@ -12,7 +12,7 @@ Hi!
 
 I am Wonseok Choi (최원석, 崔元碩), an assistant professor in the EECS department at DGIST, Korea. 
 
-If you are interested in working with me as a PhD student/postdoc, please contact me via my email.
+If you're interested in working with me as a PhD student or postdoc, please drop me an email.
 
 I am working on multiple research topics, focusing on two main areas: 
 1. security analysis/proof of algorithms and protocols and 
