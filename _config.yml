@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wonseok Choi"
   avatar           : "oohaah.jpg"
-  bio              : "Cryptographer, Postdoc"
-  location         : "HaaS 273, Purdue Univ."
+  bio              : "Cryptographer, Assistant Professor"
+  location         : "E3-210, DGIST"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rYa9OSYAAAAJ&hl=en"
-  email            : "wonseok@purdue.edu"
+  email            : "wonseok@dgist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
