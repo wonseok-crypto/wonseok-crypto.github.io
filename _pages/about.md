@@ -73,7 +73,7 @@ Latest News
 
 Publication List
 -----
-Alexandre Adomnic\u{a}i, Wonseok Choi, Yeongmin Lee, Yusuke Naito, and Kazuhiko Minematsu, “Cymric: Short-tailed but Mighty”, *TCHES 2025(3)/CHES 2025*, to appear.
+Alexandre Adomnicăi, Wonseok Choi, Yeongmin Lee, Yusuke Naito, and Kazuhiko Minematsu, “Cymric: Short-tailed but Mighty”, *TCHES 2025(3)/CHES 2025*, to appear.
 
 Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Tight Security of Double-Block Nonce-Based MACs”, **ASIACRYPT 2024**.
 
