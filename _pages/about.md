@@ -20,9 +20,9 @@ I am working on multiple research topics, focusing on two main areas:
 1. designing algorithms and protocols for multi-party computation, blockchain, etc.
 
 More importantly, I aim to establish the precise security model or requirements for each problem, define appropriate notions, and conduct a thorough analysis.
-Previously, I spent a great time as a postdoc at Purdue University and GeorgiaTech hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). Before that, I was a research fellow at KIAS (Korea Institute for Advanced Study) for half a year, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
+Previously, I spent a great time as a postdoc at Purdue University and Georgia Tech hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). Before that, I was a research fellow at KIAS for half a year, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
 
-I received my Ph.D. from KAIST (Korea Advanced Institute of Science and Technology), where I was fortunate to be advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography: improving security analyses of several symmetric-key algorithms and proposing new constructions such as pseudorandom functions, message authentication codes, and authenticated encryptions with associated data.
+I received my Ph.D. from KAIST, where I was fortunate to be advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography: improving security analyses of several symmetric-key algorithms and proposing new constructions such as pseudorandom functions, message authentication codes, and authenticated encryptions with associated data.
 
 Before studying cryptography, I majored in mathematics at KAIST for my master's and bachelor's degrees. I still enjoy solving math quizzes!
 
