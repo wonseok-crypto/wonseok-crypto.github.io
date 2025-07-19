@@ -8,52 +8,58 @@ redirect_from:
   - /about.html
 ---
 
-Hi!
-
 I am Wonseok Choi (최원석, 崔元碩), an assistant professor in the EECS department at DGIST, Korea. 
 
-If you're interested in working with me as a PhD student or postdoc, please drop me an email.
+My research interests include cryptography (e.g., symmetric-key/public-key/quantum/post-quantum/MPC) and related topics in cryptology and mathematics.
+I aim to establish the precise security model or requirements for each problem, define appropriate notions, and conduct a thorough analysis.
 
-I am working on multiple research topics, focusing on two main areas: 
-1. security analysis/proof of algorithms and protocols and 
+I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). Before that, I was a research fellow at KIAS, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
+
+I received my Ph.D. from KAIST, where I was advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography. My thesis was titled "Study on Building Pseudorandom Functions from Cryptographic Primitives."
+
+
+Now I am running the Cryptology and Information Security Lab. The lab will focus on 
+
+1. security analysis/proof of algorithms and protocols and
 
 1. designing algorithms and protocols for multi-party computation, blockchain, etc.
 
-More importantly, I aim to establish the precise security model or requirements for each problem, define appropriate notions, and conduct a thorough analysis.
+
+<!---
+
 Previously, I spent a great time as a postdoc at Purdue University and Georgia Tech hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). Before that, I was a research fellow at KIAS for half a year, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
 
 I received my Ph.D. from KAIST, where I was fortunate to be advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography: improving security analyses of several symmetric-key algorithms and proposing new constructions such as pseudorandom functions, message authentication codes, and authenticated encryptions with associated data.
 
 Before studying cryptography, I majored in mathematics at KAIST for my master's and bachelor's degrees. I still enjoy solving math quizzes!
+-->
 
-
-My research interests include 
-------
-1. Cryptography including symmetric-key, public-key, primitive design, and provable security
-
-1. Secure multi-party computation and blockchain
-   
-1. Related topics in cryptology and mathematics
 
 
 
 Latest News
 ------
-(May. 2025) I have become an assistant professor at DGIST. :)
+(Jul. 2025) Our paper on sharp anonymous multisignatures was accepted at AFT 2025.
 
-(Apr. 2025) My paper on designing new AEADs dedicated to short input lengths has been accepted to TCHES2025(3)/CHES2025!
+(Jul. 2025) I am visiting Ruhr-University of Bochum for a month, hosted by [Ashwin Jha](https://ashwin-jha.github.io/) and Gregor Leander.
 
-(Aug. 2024) My paper on tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) has been accepted at ASIACRYPT 2024.
+(May. 2025) Now I am an assistant professor at DGIST. :)
 
-(Jul. 2024) I appreciate my co-authors for the work on efficient tweakable block ciphers accepted to ProvSec 2024.
+(Apr. 2025) Our paper on designing new AEADs dedicated to short input lengths was accepted at TCHES2025(3)/CHES2025!
 
-(May. 2024) My paper proposing new TBC-based AEADs has been accepted to DCC with my great colleagues in KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home).
+(Aug. 2024) Our paper on tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) was accepted at ASIACRYPT 2024.
+
+
 
 
 
 
 
 <!---
+(Jul. 2024) I appreciate my co-authors for the work on efficient tweakable block ciphers accepted to ProvSec 2024.
+
+(May. 2024) My paper proposing new TBC-based AEADs has been accepted to DCC with my great colleagues in KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home).
+
 (May. 2024) My paper about the committing security of MACs was accepted to CRYPTO 2024! This is a joint work with my fantastic group of [ASK 2024](https://askworkshop.github.io/ask2023/).
 
 (Apr. 2024)	I visited the University of Cincinnati during the third week of this month to collaborate with [Seungki Kim](https://sites.google.com/view/seungki/).
@@ -73,6 +79,8 @@ Latest News
 
 Publication List
 -----
+Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, AFT 2025, to appear.
+
 Alexandre Adomnicăi, Wonseok Choi, Yeongmin Lee, Yusuke Naito, and Kazuhiko Minematsu, “Cymric: Short-tailed but Mighty”, *TCHES 2025(3)/CHES 2025*, to appear.
 
 Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Tight Security of Double-Block Nonce-Based MACs”, **ASIACRYPT 2024**.
@@ -159,11 +167,17 @@ Invited Talk at Korea Cryptography Forum Workshop, Gyeonggi (Korea), May. 2019.\
 National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 
+
+<!---
+
 Reviews
 -----
 Review: FSE 2025 (ToSC 2024/2025), ASIACRYPT 2024, ISC 2024, FSE 2024 (ToSC 2023/2024)\
 Subreview: CRYPTO 2024, EUROCRYPT 2024, ACNS 2023, EUROCRYPT 2023, and LATINCRYPT 2023\
 External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvSec 2018
+
+-->
+
 
 
 
