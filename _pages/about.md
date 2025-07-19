@@ -10,19 +10,19 @@ redirect_from:
 
 I am Wonseok Choi (최원석, 崔元碩), an assistant professor in the EECS department at DGIST, Korea. 
 
-My research interests include cryptography (e.g., symmetric-key/public-key/quantum/post-quantum/MPC) and related topics in cryptology and mathematics.
-I aim to establish the precise security model or requirements for each problem, define appropriate notions, and conduct a thorough analysis.
+My research interests include cryptography (e.g., symmetric-key, public-key, MPC, quantum, and post-quantum) and related topics in cryptology and mathematics. I aim to establish precise security models or requirements for each problem, define appropriate notions, and conduct thorough analyses.
 
 I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). Before that, I was a research fellow at KIAS, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
 
 I received my Ph.D. from KAIST, where I was advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography. My thesis was titled "Study on Building Pseudorandom Functions from Cryptographic Primitives."
 
 
-Now I am running the Cryptology and Information Security Lab. The lab will focus on 
+I am currently running the Cryptology and Information Security Lab at DGIST. Our research focuses on:
 
-1. security analysis/proof of algorithms and protocols and
+1. Security analysis and formal proofs of algorithms and protocols; and
 
-1. designing algorithms and protocols for multi-party computation, blockchain, etc.
+1. Designing algorithms and protocols for multi-party computation, blockchain, and related areas.
+
 
 
 <!---
