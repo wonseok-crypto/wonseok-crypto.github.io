@@ -39,15 +39,15 @@ Before studying cryptography, I majored in mathematics at KAIST for my master's 
 
 Latest News
 ------
-(Jul. 2025) Our paper on sharp anonymous multisignatures was accepted at AFT 2025.
+(Jul. 2025) Our paper on sharp anonymous multisignatures, co-authored with [Xiangyu](https://xiangyuliu-yahoo.github.io/) and Vassilis, was accepted at AFT 2025.
 
 (Jul. 2025) I am visiting Ruhr-University of Bochum for a month, hosted by [Ashwin Jha](https://ashwin-jha.github.io/) and Gregor Leander.
 
-(May. 2025) Now I am an assistant professor at DGIST. :)
+(May 2025) I became an assistant professor at DGIST and started running the Cryptology and Information Security Lab.
 
-(Apr. 2025) Our paper on designing new AEADs dedicated to short input lengths was accepted at TCHES2025(3)/CHES2025!
+(Apr. 2025) Our paper on designing new AEADs dedicated to short input lengths was accepted at TCHES2025(3)/CHES2025.
 
-(Aug. 2024) Our paper on tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) was accepted at ASIACRYPT 2024.
+(Aug. 2024) Our paper on the tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) was accepted at ASIACRYPT 2024.
 
 
 
