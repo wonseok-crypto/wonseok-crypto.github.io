@@ -142,6 +142,10 @@ ToSC 2023/2024 / FSE 2024
 
 Talks
 -----
+“Cymric: Short-tailed but Mighty”\
+CHES 2025, Malaysia (Kuala Lumpur), Sep. 2025.\
+Invited Talk at 2025 GAPS Workshop, Singapore, Sep. 2025.
+
 “On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”\
 Invited Talk at Radbound University, Nijmegen (the Netherlands), Mar. 2024.\
 Invited Talk at DESILO, Seoul (Korea), Dec. 2023.\
