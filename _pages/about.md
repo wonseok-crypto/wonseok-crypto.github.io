@@ -54,8 +54,6 @@ Latest News
 
 
 
-
-
 <!---
 (Jul. 2024) I appreciate my co-authors for the work on efficient tweakable block ciphers accepted to ProvSec 2024.
 
@@ -127,7 +125,7 @@ KIAS Individual Grant (22.5 million KRW, Sep. 2022 - Mar. 2023)\
 “Designing and Analysis of Cryptographic Pseudorandom Functions”\
 Supported by Korea Institute for Advanced Study
 
-*1 million KRW ≈ 800 USD
+*1 million KRW ≈ 700 USD
 -->
 
 Editorial Board / Program Committee
@@ -172,6 +170,10 @@ Invited Talk at Korea Cryptography Forum Workshop, Gyeonggi (Korea), May. 2019.\
 National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 
+Teaching
+-----
+2026 Spring: CSE405 Introduction to Computer Security
+2025 Fall: CSE301 Computer Algorithms
 
 <!---
 
@@ -186,4 +188,4 @@ External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvS
 
 
 
-Last Update: 20/JULY/2025
+Last Update: 15/DEC/2025
