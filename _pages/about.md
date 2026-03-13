@@ -125,10 +125,17 @@ Invited Talk at Korea Cryptography Forum Workshop, Gyeonggi (Korea), May. 2019.\
 National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 
-Teaching
+Teaching and Advising
 -----
-2026 Spring: CSE405 Computer Security
-2025 Fall: CSE301 Computer Algorithms
+# Teaching
+
+## 2026 Spring: CSE405 Computer Security
+
+## 2025 Fall: CSE301 Computer Algorithms
+
+# PhD Students
+
+## Wookjin Choi (Starting in Fall 2026)
 
 <!---
 
