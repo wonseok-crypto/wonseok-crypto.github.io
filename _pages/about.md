@@ -88,38 +88,38 @@ Professional Activities
   - [Online GAPS](https://gapsworkshop.github.io/online/)
 
 **Program Committees**
-FSE 2024-2027\
-ISC 2024-2025\
-ASIACRYPT 2024
+  - FSE 2024-2027\
+  - ISC 2024-2025\
+  - ASIACRYPT 2024
 
 
 Talks
 -----
-“Cymric: Short-tailed but Mighty”\
+  - “Cymric: Short-tailed but Mighty”\
 CHES 2025, Malaysia (Kuala Lumpur), Sep. 2025.\
 Invited Talk at 2025 GAPS Workshop, Singapore, Sep. 2025.
 
-“On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”\
+  - “On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”\
 Invited Talk at Radbound University, Nijmegen (the Netherlands), Mar. 2024.\
 Invited Talk at DESILO, Seoul (Korea), Dec. 2023.\
 Invited Talk at ASK 2023, Guangzhou (China), Dec. 2023.
 
-“Improved Multi-User Security Using the Squared-Ratio Method”\
+  - “Improved Multi-User Security Using the Squared-Ratio Method”\
 CRYPTO 2023, Santa Barbara (CA), Aug. 2023.\
 Athecrypt 2023, Athens (Greece), May. 2023.\
 Invited Talk at NEC Core Technology Forum, Kanagawa (Japan), Dec. 2022.
 
-“Multi-User Security of the Sum of Truncated Random Permutations”\
+  - “Multi-User Security of the Sum of Truncated Random Permutations”\
 ASIACRYPT 2022, Taipei (Taiwan), Dec. 2022.\
 2022 Global KMS International Conference, Seoul (Korea), Oct. 2022.
 
-“Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”\
+  - “Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”\
 FSE 2024, Leuven (Belgium), Mar. 2024.\
 2022 KMS Spring Meeting, Online, Apr. 2022.\
 Security@KAIST Student Research Presentation, Online, Nov. 2021.\
 National Cryptography Contest Awards, Seoul (Korea), Oct. 2021.
 
-“Indifferentiability of Truncated Random Permutations”\
+  - “Indifferentiability of Truncated Random Permutations”\
 ASIACRYPT 2019, Kobe (Japan), Dec. 2019.\
 Invited Talk at Korea Cryptography Forum Workshop, Gyeonggi (Korea), May. 2019.\
 National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
@@ -147,33 +147,33 @@ External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvS
 
 Publication List
 -----
-Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, AFT 2025.
+  - Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, AFT 2025.
 
-Alexandre Adomnicăi, Wonseok Choi, Yeongmin Lee, Yusuke Naito, and Kazuhiko Minematsu, “Cymric: Short-tailed but Mighty”, *TCHES 2025(3)/CHES 2025*.
+  - Alexandre Adomnicăi, Wonseok Choi, Yeongmin Lee, Yusuke Naito, and Kazuhiko Minematsu, “Cymric: Short-tailed but Mighty”, *TCHES 2025(3)/CHES 2025*.
 
-Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Tight Security of Double-Block Nonce-Based MACs”, **ASIACRYPT 2024**.
+  - Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Tight Security of Double-Block Nonce-Based MACs”, **ASIACRYPT 2024**.
 
-Ritam Bhaumik, Wonseok Choi, Avijit Dutta, Cuauhtemoc Mancillas Lopez, Hrithik Nandi, and Yaobin Shen, “Efficient Variants of TNT with BBB Security”, ProvSec 2024.
+  - Ritam Bhaumik, Wonseok Choi, Avijit Dutta, Cuauhtemoc Mancillas Lopez, Hrithik Nandi, and Yaobin Shen, “Efficient Variants of TNT with BBB Security”, ProvSec 2024.
 
-Wonseok Choi, Seongha Hwang, Byeonghak Lee, and Jooyoung Lee, “ZLR: A Fast Online Authenticated Encryption Achieving Full Security”, DCC 2024.
+  - Wonseok Choi, Seongha Hwang, Byeonghak Lee, and Jooyoung Lee, “ZLR: A Fast Online Authenticated Encryption Achieving Full Security”, DCC 2024.
 
-Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, Jérôme Govinden, and Yaobin Shen, “The Committing Security of MACs with Applications to Generic Composition”, **CRYPTO 2024**.
+  - Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, Jérôme Govinden, and Yaobin Shen, “The Committing Security of MACs with Applications to Generic Composition”, **CRYPTO 2024**.
 
-Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”, *ToSC 2024(1) / FSE 2024*.
+  - Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”, *ToSC 2024(1) / FSE 2024*.
 
-Yu Long Chen, Wonseok Choi, and Changmin Lee, “Improved Multi-User Security Using the Squared-Ratio Method”, **CRYPTO 2023**.
+  - Yu Long Chen, Wonseok Choi, and Changmin Lee, “Improved Multi-User Security Using the Squared-Ratio Method”, **CRYPTO 2023**.
 
-Wonseok Choi, Hwigyeom Kim, Jooyoung Lee, and Yeongmin Lee, “Multi-User Security of the Sum of Truncated Random Permutations”, **ASIACRYPT 2022**.
+  - Wonseok Choi, Hwigyeom Kim, Jooyoung Lee, and Yeongmin Lee, “Multi-User Security of the Sum of Truncated Random Permutations”, **ASIACRYPT 2022**.
 
-Wonseok Choi, Byeonghak Lee, Jooyoung Lee, and Yeongmin Lee, “Toward a Fully Secure Authenticated Encryption Scheme From a Pseudorandom Permutation”, **ASIACRYPT 2021**.
+  - Wonseok Choi, Byeonghak Lee, Jooyoung Lee, and Yeongmin Lee, “Toward a Fully Secure Authenticated Encryption Scheme From a Pseudorandom Permutation”, **ASIACRYPT 2021**.
 
-Wonseok Choi, Akiko Inoue, Byeonghak Lee, Jooyoung Lee, Eik List, Kazuhiko Minematsu, and Yusuke Naito, “Highly Secure Nonce-based Macs from the Sum of Tweakable Block Ciphers”, *ToSC 2020(4) / FSE 2022*.
+  - Wonseok Choi, Akiko Inoue, Byeonghak Lee, Jooyoung Lee, Eik List, Kazuhiko Minematsu, and Yusuke Naito, “Highly Secure Nonce-based Macs from the Sum of Tweakable Block Ciphers”, *ToSC 2020(4) / FSE 2022*.
 
-Wonseok Choi, Byeonghak Lee, Yeongmin Lee, and Jooyoung Lee, “Improved Security Analysis for Nonce-based Enhanced Hash-then-Mask MACs”, **ASIACRYPT 2020**.
+  - Wonseok Choi, Byeonghak Lee, Yeongmin Lee, and Jooyoung Lee, “Improved Security Analysis for Nonce-based Enhanced Hash-then-Mask MACs”, **ASIACRYPT 2020**.
 
-Jincheol Ha, Seongkwang Kim, Wonseok Choi, Jooyoung Lee, Dukjae Moon, Hyojin Yoon, and Jihoon Cho, “Masta: An HE-friendly Cipher Using Modular Arithmetic”, IEEE Access 2020.
+  - Jincheol Ha, Seongkwang Kim, Wonseok Choi, Jooyoung Lee, Dukjae Moon, Hyojin Yoon, and Jihoon Cho, “Masta: An HE-friendly Cipher Using Modular Arithmetic”, IEEE Access 2020.
 
-Wonseok Choi, Byeonghak Lee, and Jooyoung Lee, “Indifferentiability of Truncated Random Permutations”, **ASIACRYPT 2019**.
+  - Wonseok Choi, Byeonghak Lee, and Jooyoung Lee, “Indifferentiability of Truncated Random Permutations”, **ASIACRYPT 2019**.
 
 <!---
 
