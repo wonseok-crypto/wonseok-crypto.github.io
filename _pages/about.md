@@ -88,8 +88,8 @@ Professional Activities
   - [Online GAPS](https://gapsworkshop.github.io/online/)
 
 **Program Committees**
-  - FSE 2024-2027\
-  - ISC 2024-2025\
+  - FSE 2024-2027
+  - ISC 2024-2025
   - ASIACRYPT 2024
 
 
