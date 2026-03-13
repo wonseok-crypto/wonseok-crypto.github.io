@@ -24,6 +24,8 @@ I am currently running the Cryptology and Information Security Lab at DGIST. Our
 
 1. Designing algorithms and protocols for multi-party computation, blockchain, and related areas.
 
+We were recently awarded the Young Scientist Grant!
+
 
 
 <!---
