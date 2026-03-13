@@ -12,7 +12,7 @@ I am Wonseok Choi (최원석, 崔元碩), an assistant professor in the EECS dep
 
 My research interests include cryptography (e.g., symmetric-key, public-key, MPC, quantum, and post-quantum) and related topics in cryptology and mathematics. I aim to establish precise security models or requirements for each problem, define appropriate notions, and conduct thorough analyses.
 
-I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). My postdoctoral research focused on Byzantine fault-tolerant protocols and on applications of cryptography, such as digital signatures for e-voting and blockchain. I also worked (and am working now) on optimizing/improving messaging protocols using symmetric-key encryption and on definitional problems of anamorphic encryption.
+I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). My postdoctoral research focused on Byzantine fault-tolerant protocols and on applications of cryptography, such as digital signatures for e-voting and blockchain. I also worked (and am still working) on optimizing/improving messaging protocols using symmetric-key encryption and on definitional issues in anamorphic encryption.
 Before that, I was a research fellow at KIAS, where I worked on symmetric-key cryptography and provable security methodologies, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
 
 I received my Ph.D. from KAIST, where I was advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography. My thesis was titled "Study on Building Pseudorandom Functions from Cryptographic Primitives."
@@ -20,7 +20,7 @@ I received my Ph.D. from KAIST, where I was advised by [Jooyoung Lee](https://si
 
 I am currently running the Cryptology and Information Security Lab at DGIST. Our research focuses on:
 
-1. Security analysis and formal proofs of algorithms and protocols; and
+1. Security analysis and proofs of algorithms and protocols; and
 
 1. Designing algorithms and protocols for multi-party computation, blockchain, and related areas.
 
@@ -30,7 +30,7 @@ I am currently running the Cryptology and Information Security Lab at DGIST. Our
 
 Previously, I spent a great time as a postdoc at Purdue University and Georgia Tech hosted by [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). Before that, I was a research fellow at KIAS for half a year, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
 
-I received my Ph.D. from KAIST, where I was fortunate to be advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography: improving security analyses of several symmetric-key algorithms and proposing new constructions such as pseudorandom functions, message authentication codes, and authenticated encryptions with associated data.
+I received my Ph.D. from KAIST, where I was fortunate to be advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography: improving security analyses of several symmetric-key algorithms and proposing new constructions such as pseudorandom functions, message authentication codes, and authenticated encryption with associated data.
 
 Before studying cryptography, I majored in mathematics at KAIST for my master's and bachelor's degrees. I still enjoy solving math quizzes!
 -->
@@ -40,6 +40,10 @@ Before studying cryptography, I majored in mathematics at KAIST for my master's 
 
 Latest News
 ------
+(Mar. 2026) I will give an invited talk at [ASK 2026](https://ask2026.github.io/) and attend [FSE 2026](https://fse.iacr.org/2026/).
+
+(Mar. 2026) I was awarded the Young Scientist Grant to develop a unified framework for the concrete security of MPC. *I may open a few positions for PhD students and postdocs.*
+
 (Jul. 2025) Our paper on sharp anonymous multisignatures, co-authored with [Xiangyu](https://xiangyuliu-yahoo.github.io/) and Vassilis, was accepted at AFT 2025.
 
 (Jul. 2025) I am visiting Ruhr-University of Bochum for a month, hosted by [Ashwin Jha](https://ashwin-jha.github.io/) and Gregor Leander.
@@ -48,13 +52,14 @@ Latest News
 
 (Apr. 2025) Our paper on designing new AEADs dedicated to short input lengths was accepted at TCHES2025(3)/CHES2025.
 
-(Aug. 2024) Our paper on the tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) was accepted at ASIACRYPT 2024.
 
 
 
 
 
 <!---
+(Aug. 2024) Our paper on the tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) was accepted at ASIACRYPT 2024.
+
 (Jul. 2024) I appreciate my co-authors for the work on efficient tweakable block ciphers accepted to ProvSec 2024.
 
 (May. 2024) My paper proposing new TBC-based AEADs has been accepted to DCC with my great colleagues in KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home).
@@ -76,60 +81,10 @@ Latest News
 (Jun. 2023)	My paper on a new technique to prove multi-user security was accepted to **CRYPTO 2023**.
 -->
 
-Publication List
------
-Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, AFT 2025.
-
-Alexandre Adomnicăi, Wonseok Choi, Yeongmin Lee, Yusuke Naito, and Kazuhiko Minematsu, “Cymric: Short-tailed but Mighty”, *TCHES 2025(3)/CHES 2025*.
-
-Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Tight Security of Double-Block Nonce-Based MACs”, **ASIACRYPT 2024**.
-
-Ritam Bhaumik, Wonseok Choi, Avijit Dutta, Cuauhtemoc Mancillas Lopez, Hrithik Nandi, and Yaobin Shen, “Efficient Variants of TNT with BBB Security”, ProvSec 2024.
-
-Wonseok Choi, Seongha Hwang, Byeonghak Lee, and Jooyoung Lee, “ZLR: A Fast Online Authenticated Encryption Achieving Full Security”, DCC 2024.
-
-Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, Jérôme Govinden, and Yaobin Shen, “The Committing Security of MACs with Applications to Generic Composition”, **CRYPTO 2024**.
-
-Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”, *ToSC 2024(1) / FSE 2024*.
-
-Yu Long Chen, Wonseok Choi, and Changmin Lee, “Improved Multi-User Security Using the Squared-Ratio Method”, **CRYPTO 2023**.
-
-Wonseok Choi, Hwigyeom Kim, Jooyoung Lee, and Yeongmin Lee, “Multi-User Security of the Sum of Truncated Random Permutations”, **ASIACRYPT 2022**.
-
-Wonseok Choi, Byeonghak Lee, Jooyoung Lee, and Yeongmin Lee, “Toward a Fully Secure Authenticated Encryption Scheme From a Pseudorandom Permutation”, **ASIACRYPT 2021**.
-
-Wonseok Choi, Akiko Inoue, Byeonghak Lee, Jooyoung Lee, Eik List, Kazuhiko Minematsu, and Yusuke Naito, “Highly Secure Nonce-based Macs from the Sum of Tweakable Block Ciphers”, *ToSC 2020(4) / FSE 2022*.
-
-Wonseok Choi, Byeonghak Lee, Yeongmin Lee, and Jooyoung Lee, “Improved Security Analysis for Nonce-based Enhanced Hash-then-Mask MACs”, **ASIACRYPT 2020**.
-
-Jincheol Ha, Seongkwang Kim, Wonseok Choi, Jooyoung Lee, Dukjae Moon, Hyojin Yoon, and Jihoon Cho, “Masta: An HE-friendly Cipher Using Modular Arithmetic”, IEEE Access 2020.
-
-Wonseok Choi, Byeonghak Lee, and Jooyoung Lee, “Indifferentiability of Truncated Random Permutations”, **ASIACRYPT 2019**.
-
-<!---
-
-Preprint
------
-Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, [Eprint:2023/1881](https://eprint.iacr.org/2023/1881).
-
-Wonseok Choi, Minki Hhan, Yu Wei, and Vassilis Zikas, “On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”, [Eprint:2023/1704](https://eprint.iacr.org/2023/1704).
-
-
-Grants
------
-**Sejong Science Fellowship** (140 million KRW, Sep. 2023 - Aug. 2025)\
-“Building Efficient Symmetric-Key Primitives for Secure Multi-Party Computation”\
-Supported by National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)
-
-KIAS Individual Grant (22.5 million KRW, Sep. 2022 - Mar. 2023)\
-“Designing and Analysis of Cryptographic Pseudorandom Functions”\
-Supported by Korea Institute for Advanced Study
-
-*1 million KRW ≈ 700 USD
--->
 
 Editorial Board / Program Committee
 -----
+ToSC 2026/2027 / FSE 2027\
 ToSC 2025/2026 / FSE 2026\
 ISC 2025\
 ToSC 2024/2025 / FSE 2025\
@@ -172,7 +127,7 @@ National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 Teaching
 -----
-2026 Spring: CSE405 Introduction to Computer Security
+2026 Spring: CSE405 Computer Security
 2025 Fall: CSE301 Computer Algorithms
 
 <!---
@@ -186,6 +141,56 @@ External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvS
 -->
 
 
+Publication List
+-----
+Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, AFT 2025.
+
+Alexandre Adomnicăi, Wonseok Choi, Yeongmin Lee, Yusuke Naito, and Kazuhiko Minematsu, “Cymric: Short-tailed but Mighty”, *TCHES 2025(3)/CHES 2025*.
+
+Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Tight Security of Double-Block Nonce-Based MACs”, **ASIACRYPT 2024**.
+
+Ritam Bhaumik, Wonseok Choi, Avijit Dutta, Cuauhtemoc Mancillas Lopez, Hrithik Nandi, and Yaobin Shen, “Efficient Variants of TNT with BBB Security”, ProvSec 2024.
+
+Wonseok Choi, Seongha Hwang, Byeonghak Lee, and Jooyoung Lee, “ZLR: A Fast Online Authenticated Encryption Achieving Full Security”, DCC 2024.
+
+Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, Jérôme Govinden, and Yaobin Shen, “The Committing Security of MACs with Applications to Generic Composition”, **CRYPTO 2024**.
+
+Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds”, *ToSC 2024(1) / FSE 2024*.
+
+Yu Long Chen, Wonseok Choi, and Changmin Lee, “Improved Multi-User Security Using the Squared-Ratio Method”, **CRYPTO 2023**.
+
+Wonseok Choi, Hwigyeom Kim, Jooyoung Lee, and Yeongmin Lee, “Multi-User Security of the Sum of Truncated Random Permutations”, **ASIACRYPT 2022**.
+
+Wonseok Choi, Byeonghak Lee, Jooyoung Lee, and Yeongmin Lee, “Toward a Fully Secure Authenticated Encryption Scheme From a Pseudorandom Permutation”, **ASIACRYPT 2021**.
+
+Wonseok Choi, Akiko Inoue, Byeonghak Lee, Jooyoung Lee, Eik List, Kazuhiko Minematsu, and Yusuke Naito, “Highly Secure Nonce-based Macs from the Sum of Tweakable Block Ciphers”, *ToSC 2020(4) / FSE 2022*.
+
+Wonseok Choi, Byeonghak Lee, Yeongmin Lee, and Jooyoung Lee, “Improved Security Analysis for Nonce-based Enhanced Hash-then-Mask MACs”, **ASIACRYPT 2020**.
+
+Jincheol Ha, Seongkwang Kim, Wonseok Choi, Jooyoung Lee, Dukjae Moon, Hyojin Yoon, and Jihoon Cho, “Masta: An HE-friendly Cipher Using Modular Arithmetic”, IEEE Access 2020.
+
+Wonseok Choi, Byeonghak Lee, and Jooyoung Lee, “Indifferentiability of Truncated Random Permutations”, **ASIACRYPT 2019**.
+
+<!---
+
+Preprint
+-----
+
+Wonseok Choi, Minki Hhan, Yu Wei, and Vassilis Zikas, “On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”, [Eprint:2023/1704](https://eprint.iacr.org/2023/1704).
 
 
-Last Update: 15/DEC/2025
+Grants
+-----
+**Sejong Science Fellowship** (140 million KRW, Sep. 2023 - Aug. 2025)\
+“Building Efficient Symmetric-Key Primitives for Secure Multi-Party Computation”\
+Supported by National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)
+
+KIAS Individual Grant (22.5 million KRW, Sep. 2022 - Mar. 2023)\
+“Designing and Analysis of Cryptographic Pseudorandom Functions”\
+Supported by Korea Institute for Advanced Study
+
+*1 million KRW ≈ 700 USD
+-->
+
+
+Last Update: 13/MAR/2026
