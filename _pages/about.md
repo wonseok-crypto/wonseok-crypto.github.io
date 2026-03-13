@@ -127,15 +127,15 @@ National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 Teaching and Advising
 -----
-# Teaching
+Teaching
 
-## 2026 Spring: CSE405 Computer Security
+  - 2026 Spring: CSE405 Computer Security
 
-## 2025 Fall: CSE301 Computer Algorithms
+  - 2025 Fall: CSE301 Computer Algorithms
 
-# PhD Students
+PhD Students
 
-## Wookjin Choi (Starting in Fall 2026)
+  - Wookjin Choi (Starting in Fall 2026)
 
 <!---
 
