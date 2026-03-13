@@ -87,7 +87,7 @@ Professional Activities
 **Organizer**
   - [Online GAPS](https://gapsworkshop.github.io/online/)
 
-**Program Committees**
+**Program Committee**
   - FSE 2024-2027
   - ISC 2024-2025
   - ASIACRYPT 2024
@@ -127,9 +127,9 @@ National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 Teaching and Advising
 -----
-**Teaching**
-  - 2026 Spring: CSE405 Computer Security\
-  - 2025 Fall: CSE301 Computer Algorithms
+**Courses**
+  - DGIST CSE405 Computer Security (2026 Spring)
+  - DGIST CSE301 Computer Algorithms (2025 Fall)
 
 **PhD Students**
   - Wookjin Choi (Starting in Fall 2026)
