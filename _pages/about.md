@@ -82,15 +82,15 @@ Latest News
 -->
 
 
-Editorial Board / Program Committee
+Professional Activities
 -----
-ToSC 2026/2027 / FSE 2027\
-ToSC 2025/2026 / FSE 2026\
-ISC 2025\
-ToSC 2024/2025 / FSE 2025\
-ASIACRYPT 2024\
-ISC 2024\
-ToSC 2023/2024 / FSE 2024
+**Organizer**
+  - [Online GAPS](https://gapsworkshop.github.io/online/)
+
+**Program Committees**
+FSE 2024-2027\
+ISC 2024-2025\
+ASIACRYPT 2024
 
 
 Talks
@@ -127,14 +127,11 @@ National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 Teaching and Advising
 -----
-Teaching
-
-  - 2026 Spring: CSE405 Computer Security
-
+**Teaching**
+  - 2026 Spring: CSE405 Computer Security\
   - 2025 Fall: CSE301 Computer Algorithms
 
-PhD Students
-
+**PhD Students**
   - Wookjin Choi (Starting in Fall 2026)
 
 <!---
