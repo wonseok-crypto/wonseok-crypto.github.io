@@ -26,6 +26,7 @@ I am currently running the Cryptology and Information Security Lab at DGIST. Our
 
 We were recently awarded the Outstanding Young Scientist Grant from the NRF (Korean government)! See the latest news!
 
+Updated: I sincerely apologize to the applicants who have sent phd/postdoc position inquiries; due to the volume of emails, I couldn't reply to all of them.
 
 
 <!---
@@ -44,7 +45,7 @@ Latest News
 ------
 (Mar. 2026) I will give an invited talk at [ASK 2026](https://ask2026.github.io/) and attend [FSE 2026](https://fse.iacr.org/2026/).
 
-(Mar. 2026) I was awarded the Outstanding Young Scientist Grant to develop a unified framework for the concrete security of MPC. *I may open a few positions for PhD students and postdocs.*
+(Mar. 2026) I was awarded the Outstanding Young Scientist Grant to develop a unified framework for the concrete security of MPC.
 
 (Jul. 2025) Our paper on sharp anonymous multisignatures, co-authored with [Xiangyu](https://xiangyuliu-yahoo.github.io/) and Vassilis, was accepted at AFT 2025.
 
