@@ -20,7 +20,7 @@ I received my Ph.D. from KAIST, where I was advised by [Jooyoung Lee](https://si
 
 I am currently running the Cryptology and Information Security Lab at DGIST. Our research focuses on:
 
-1. Security analysis and proofs of algorithms and protocols; and
+1. Security analysis and proofs of cryptographic algorithms and protocols; and
 
 1. Designing algorithms and protocols for multi-party computation, blockchain, and related areas.
 
