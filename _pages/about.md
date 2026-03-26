@@ -43,7 +43,7 @@ Before studying cryptography, I majored in mathematics at KAIST for my master's 
 
 Latest News
 ------
-(Mar. 2026) I will give an invited talk at [ASK 2026](https://ask2026.github.io/) and attend [FSE 2026](https://fse.iacr.org/2026/).
+(Mar. 2026) I will give an invited talk at [ASK 2026](https://ask2026.github.io/) and attend [FSE 2026](https://fse.iacr.org/2026/). Updated: We, GAPS organizers, were awarded *the most chewing gum-ish talk* prize during the FSE 2026 rump session!
 
 (Mar. 2026) I was awarded the Outstanding Young Scientist Grant to develop a unified framework for the concrete security of MPC.
 
@@ -61,6 +61,7 @@ Latest News
 
 
 <!---
+
 (Aug. 2024) Our paper on the tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) was accepted at ASIACRYPT 2024.
 
 (Jul. 2024) I appreciate my co-authors for the work on efficient tweakable block ciphers accepted to ProvSec 2024.
@@ -203,4 +204,4 @@ Supported by Korea Institute for Advanced Study
 -->
 
 
-Last Update: 13/MAR/2026
+Last Update: 26/MAR/2026
