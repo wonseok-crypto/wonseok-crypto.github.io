@@ -13,7 +13,7 @@ I am Wonseok Choi (최원석, 崔元碩), an assistant professor in the EECS dep
 My research interests include cryptography (e.g., symmetric-key, public-key, MPC, quantum, and post-quantum) and related topics in cryptology and mathematics. I aim to establish precise security models or requirements for each problem, define appropriate notions, and conduct thorough analyses.
 
 I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). My postdoctoral research focused on Byzantine fault-tolerant protocols and on applications of cryptography, such as digital signatures for e-voting and blockchain. I also worked (and am still working) on optimizing/improving messaging protocols using symmetric-key encryption and on definitional issues in anamorphic encryption.
-Before that, I was a research fellow at KIAS, where I worked on symmetric-key cryptography and provable security methodologies, mentored by [Changmin Lee](https://scholar.google.com/citations?user=jTcNS8cAAAAJ&hl=en).
+Before that, I was a research fellow at KIAS, where I worked on symmetric-key cryptography and provable security methodologies, mentored by [Changmin Lee](https://pqsnc.korea.ac.kr/home).
 
 I received my Ph.D. from KAIST, where I was advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography. My thesis was titled "Study on Building Pseudorandom Functions from Cryptographic Primitives."
 
@@ -98,6 +98,9 @@ Professional Activities
 
 Talks
 -----
+  - “On Reduced Key Spaces of Even-Mansour Ciphers”\
+Invited Talk at ASK 2026, Singapore, Mar. 2026.
+
   - “Cymric: Short-tailed but Mighty”\
 CHES 2025, Malaysia (Kuala Lumpur), Sep. 2025.\
 Invited Talk at 2025 GAPS Workshop, Singapore, Sep. 2025.
