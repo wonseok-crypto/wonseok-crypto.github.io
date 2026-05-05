@@ -43,6 +43,8 @@ Before studying cryptography, I majored in mathematics at KAIST for my master's 
 
 Latest News
 ------
+(May 2026) Our paper on anamorphic encryption was accepted at **CRYPTO 2026**! 
+
 (Mar. 2026) I will give an invited talk at [ASK 2026](https://ask2026.github.io/) and attend [FSE 2026](https://fse.iacr.org/2026/). Updated: We, GAPS organizers, were awarded *the most chewing gum-ish talk* prize during the FSE 2026 rump session!
 
 (Mar. 2026) I was awarded the Outstanding Young Scientist Grant to develop a unified framework for the concrete security of MPC.
@@ -53,7 +55,6 @@ Latest News
 
 (May 2025) I became an assistant professor at DGIST and started running the Cryptology and Information Security Lab.
 
-(Apr. 2025) Our paper on designing new AEADs dedicated to short input lengths was accepted at TCHES2025(3)/CHES2025.
 
 
 
@@ -61,8 +62,9 @@ Latest News
 
 
 <!---
+(Apr. 2025) Our paper on designing new AEADs dedicated to short input lengths was accepted at TCHES2025(3)/CHES2025.
 
-(Aug. 2024) Our paper on the tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) was accepted at ASIACRYPT 2024.
+(Aug. 2024) Our paper on the tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) was accepted at *ASIACRYPT 2024*.
 
 (Jul. 2024) I appreciate my co-authors for the work on efficient tweakable block ciphers accepted to ProvSec 2024.
 
