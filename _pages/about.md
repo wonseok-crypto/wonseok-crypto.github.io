@@ -156,6 +156,8 @@ External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvS
 
 Publication List
 -----
+  - Wonseok Choi, Daniel Collins, Xiangyu Liu, Roy Stracovsky, and Vassilis Zikas, “A Unified Treatment of Anamorphic Encryption”, **CRYPTO 2026**, to appear.
+
   - Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, AFT 2025.
 
   - Alexandre Adomnicăi, Wonseok Choi, Yeongmin Lee, Yusuke Naito, and Kazuhiko Minematsu, “Cymric: Short-tailed but Mighty”, *TCHES 2025(3)/CHES 2025*.
@@ -206,4 +208,4 @@ Supported by Korea Institute for Advanced Study
 -->
 
 
-Last Update: 26/MAR/2026
+Last Update: 05/MAY/2026
