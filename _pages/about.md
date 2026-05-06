@@ -141,7 +141,7 @@ Teaching and Advising
   - DGIST CSE301 Computer Algorithms (2025 Fall)
 
 **PhD Students**
-  - Wookjin Choi (Starting in Fall 2026)
+  - Wookjin Choi (Starting in 2026 Fall)
 
 <!---
 
