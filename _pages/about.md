@@ -92,10 +92,11 @@ Professional Activities
 -----
 **Organizer**
   - [Online GAPS](https://gapsworkshop.github.io/online/)
+  - DGIST Crypto Summer Camp
 
 **Program Committee**
   - FSE 2024-2027
-  - ISC 2024-2025
+  - ISC 2024-2026
   - ASIACRYPT 2024
 
 
@@ -139,6 +140,10 @@ Teaching and Advising
 **Courses**
   - DGIST CSE405 Computer Security (2026 Spring)
   - DGIST CSE301 Computer Algorithms (2025 Fall)
+
+**Post-Docs**
+  - Mincheol Son (Starting in 2026 Fall)
+  - Sunyeop Kim (Starting in 2026 Winter)
 
 **PhD Students**
   - Wookjin Choi (Starting in 2026 Fall)
