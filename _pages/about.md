@@ -148,6 +148,9 @@ Teaching and Advising
 **PhD Students**
   - Wookjin Choi (Starting in 2026 Fall)
 
+**Co-supervised PhD Students**
+  - Won Kim (Korea University; co-supervised with Prof. Changmin Lee)
+
 <!---
 
 Reviews
