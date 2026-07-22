@@ -12,7 +12,7 @@ I am Wonseok Choi (최원석, 崔元碩), an assistant professor in the EECS dep
 
 My research interests include cryptography (e.g., symmetric-key, public-key, MPC, quantum, and post-quantum) and related topics in cryptology and mathematics. I aim to establish precise security models or requirements for each problem, define appropriate notions, and conduct thorough analyses.
 
-I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). My postdoctoral research focused on Byzantine fault-tolerant protocols and on applications of cryptography, such as digital signatures for e-voting and blockchain. I also worked (and am still working) on optimizing/improving messaging protocols using symmetric-key encryption and on definitional issues in anamorphic encryption.
+I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). My postdoctoral research focused on Byzantine fault-tolerant protocols and on applications of cryptography, such as digital signatures for e-voting and blockchain. I also worked (and am still working) on messaging protocols and anamorphic encryption.
 Before that, I was a research fellow at KIAS, where I worked on symmetric-key cryptography and provable security methodologies, mentored by [Changmin Lee](https://pqsnc.korea.ac.kr/home).
 
 I received my Ph.D. from KAIST, where I was advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography. My thesis was titled "Study on Building Pseudorandom Functions from Cryptographic Primitives."
@@ -24,9 +24,6 @@ I am currently running the Cryptology and Information Security Lab at DGIST. Our
 
 1. Designing algorithms and protocols for multi-party computation, blockchain, and related areas.
 
-We were recently awarded the Outstanding Young Scientist Grant from the NRF (Korean government)! See the latest news!
-
-Updated: I sincerely apologize to the applicants who have sent phd/postdoc position inquiries; due to the volume of emails, I couldn't reply to all of them.
 
 
 <!---
@@ -141,7 +138,7 @@ Teaching and Advising
   - DGIST CSE405 Computer Security (2026 Spring)
   - DGIST CSE301 Computer Algorithms (2025 Fall)
 
-**Post-Docs**
+**Post-Docs** (co-supervised with Prof. Youngsik Kim)
   - Mincheol Son (Starting in 2026 Fall)
   - Sunyeop Kim (Starting in 2026 Winter)
 
@@ -216,4 +213,4 @@ Supported by Korea Institute for Advanced Study
 -->
 
 
-Last Update: 11/JULY/2026
+Last Update: 22/JULY/2026
