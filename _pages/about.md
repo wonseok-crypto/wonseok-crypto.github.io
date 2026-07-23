@@ -138,7 +138,7 @@ Teaching and Advising
   - DGIST CSE405 Computer Security (2026 Spring)
   - DGIST CSE301 Computer Algorithms (2025 Fall)
 
-**Post-Docs** (co-supervised with Prof. Youngsik Kim)
+**Post-Docs** (co-supervised with Prof. Youngsik Kim / InnoCORE Fellowship)
   - Mincheol Son (Starting in 2026 Fall)
   - Sunyeop Kim (Starting in 2026 Winter)
 
