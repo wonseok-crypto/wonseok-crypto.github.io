@@ -37,7 +37,7 @@ Before studying cryptography, I majored in mathematics at KAIST for my master's 
 Latest News
 ------
 
-(Jul. 2026) I organized and ran the DGIST Crypto Summer Camp during the first week of July! Members of [PAC Lab@DGIST](https://sites.google.com/view/pacl/home) helped A LOT. Changmin, Minki, Seongkwang, Yeongmin, and Jincheol gave lectures, and students from DGIST, KAIST, and Korea University actively participated. Thank you all so much! I plan to recur the event annually and make it more public and accessible (this time it was invitation-only and in Korean). I hope we can meet enthusiastic students again next year.
+(Jul. 2026) I organized and ran the DGIST Crypto Summer Camp during the first week of July! Members of [PAC Lab@DGIST](https://sites.google.com/view/pacl/home) helped A LOT. Changmin, Minki, Seongkwang, Yeongmin, and Jincheol gave lectures, and students from DGIST, KAIST, and Korea University actively participated. Thank you all so much! I plan to hold the event annually and make it more public and accessible (this time it was invitation-only and in Korean). I hope we can meet enthusiastic students again next year.
 
 (May 2026) Our paper on anamorphic encryption was accepted at **CRYPTO 2026**! 
 
@@ -135,15 +135,16 @@ National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 Teaching and Advising
 -----
 **Courses**
+  - DGIST IC638c Introduction to Cryptography (2026 Fall)
   - DGIST CSE405 Computer Security (2026 Spring)
   - DGIST CSE301 Computer Algorithms (2025 Fall)
 
 **Post-Docs** (co-supervised with Prof. Youngsik Kim / InnoCORE Fellowship)
-  - Mincheol Son (Starting in 2026 Fall)
+  - Mincheol Son (formerly a PhD student at KAIST)
   - Sunyeop Kim (Starting in 2026 Winter)
 
 **PhD Students**
-  - Wookjin Choi (Starting in 2026 Fall)
+  - Wookjin Choi (formerly an assistant professor at Kyoto University)
 
 **Co-supervised PhD Students**
   - Won Kim (Korea University; co-supervised with Prof. Changmin Lee)
@@ -161,7 +162,7 @@ External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvS
 
 Publication List
 -----
-  - Wonseok Choi, Daniel Collins, Xiangyu Liu, Roy Stracovsky, and Vassilis Zikas, “A Unified Treatment of Anamorphic Encryption”, **CRYPTO 2026**, to appear.
+  - Wonseok Choi, Daniel Collins, Xiangyu Liu, Roy Stracovsky, and Vassilis Zikas, “A Unified Treatment of Anamorphic Encryption”, **CRYPTO 2026**.
 
   - Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, AFT 2025.
 
@@ -213,4 +214,4 @@ Supported by Korea Institute for Advanced Study
 -->
 
 
-Last Update: 22/JULY/2026
+Last Update: 26/AUG/2026
