@@ -37,17 +37,17 @@ Before studying cryptography, I majored in mathematics at KAIST for my master's 
 Latest News
 ------
 
+(Sep. 2026) Be a recipient of the AI Star Fellowship (11 billion KRW/10 researchers)!
+
 (Jul. 2026) I organized and ran the DGIST Crypto Summer Camp during the first week of July! Members of [PAC Lab@DGIST](https://sites.google.com/view/pacl/home) helped A LOT. Changmin, Minki, Seongkwang, Yeongmin, and Jincheol gave lectures, and students from DGIST, KAIST, and Korea University actively participated. Thank you all so much! I plan to hold the event annually and make it more public and accessible (this time it was invitation-only and in Korean). I hope we can meet enthusiastic students again next year.
 
 (May 2026) Our paper on anamorphic encryption was accepted at **CRYPTO 2026**! 
 
-(Mar. 2026) I will give an invited talk at [ASK 2026](https://ask2026.github.io/) and attend [FSE 2026](https://fse.iacr.org/2026/). Updated: We, GAPS organizers, were awarded *the most chewing gum-ish talk* prize during the FSE 2026 rump session!
+(Mar. 2026) I will give an invited talk at [ASK 2026](https://ask2026.github.io/) and attend [FSE 2026](https://fse.iacr.org/2026/). Update: We, the GAPS organizers, were awarded *the most chewing gum-ish talk* prize during the FSE 2026 rump session!
 
 (Mar. 2026) I was awarded the Outstanding Young Scientist Grant to develop a unified framework for the concrete security of MPC.
 
 (Jul. 2025) Our paper on sharp anonymous multisignatures, co-authored with [Xiangyu](https://xiangyuliu-yahoo.github.io/) and Vassilis, was accepted at AFT 2025.
-
-(Jul. 2025) I am visiting Ruhr-University of Bochum for a month, hosted by [Ashwin Jha](https://ashwin-jha.github.io/) and Gregor Leander.
 
 
 
@@ -57,6 +57,9 @@ Latest News
 
 
 <!---
+
+(Jul. 2025) I am visiting Ruhr-University of Bochum for a month, hosted by [Ashwin Jha](https://ashwin-jha.github.io/) and Gregor Leander.
+
 (May 2025) I became an assistant professor at DGIST and started running the Cryptology and Information Security Lab.
 
 (Apr. 2025) Our paper on designing new AEADs dedicated to short input lengths was accepted at TCHES2025(3)/CHES2025.
