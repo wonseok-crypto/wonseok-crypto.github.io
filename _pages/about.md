@@ -37,7 +37,7 @@ Before studying cryptography, I majored in mathematics at KAIST for my master's 
 Latest News
 ------
 
-(Sep. 2026) Be a recipient of the AI Star Fellowship (11 billion KRW/10 researchers for 6 years)!
+(Sep. 2026) Be a recipient of the AI Top-Tier Early-Career Researcher Support (11 billion KRW/10 researchers for 6 years)!
 
 (Jul. 2026) I organized and ran the DGIST Crypto Summer Camp during the first week of July! Members of [PAC Lab@DGIST](https://sites.google.com/view/pacl/home) helped A LOT. Changmin, Minki, Seongkwang, Yeongmin, and Jincheol gave lectures, and students from DGIST, KAIST, and Korea University actively participated. Thank you all so much! I plan to hold the event annually and make it more public and accessible (this time it was invitation-only and in Korean). I hope we can meet enthusiastic students again next year.
 
