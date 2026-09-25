@@ -18,20 +18,13 @@ Before that, I was a research fellow at KIAS, where I worked on symmetric-key cr
 I received my Ph.D. from KAIST, where I was advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography. My thesis was titled "Study on Building Pseudorandom Functions from Cryptographic Primitives."
 
 
-I am currently running the Cryptology and Information Security Lab at DGIST. Our research focuses on:
+I lead the Cryptology and Information Security Lab at DGIST. Our research focuses on:
 
 1. Security analysis and proofs of cryptographic algorithms and protocols;
 
-1. Designing algorithms and protocols for multi-party computation, blockchain, AI, and related areas; and
+1. Design of algorithms and protocols for multi-party computation, blockchain, and related areas; and
 
-1. AI security and privacy, focused on the physical AI setting
-
-
-
-<!---
-
-Before studying cryptography, I majored in mathematics at KAIST for my master's and bachelor's degrees. I still enjoy solving math quizzes!
--->
+1. AI security and privacy, with a focus on physical AI (e.g., robotics and autonomous systems).
 
 
 
@@ -39,13 +32,13 @@ Before studying cryptography, I majored in mathematics at KAIST for my master's 
 Latest News
 ------
 
-(Sep. 2026) Be a recipient of the AI Star Fellowship (11 billion KRW / 10 researchers for 6 years)!
+(Sep. 2026) I was selected as one of 10 researchers on an AI Star Fellowship project (MSIT/IITP; 11 billion KRW over 6 years)
 
-(Jul. 2026) I organized and ran the DGIST Crypto Summer Camp during the first week of July! Members of [PAC Lab@DGIST](https://sites.google.com/view/pacl/home) helped A LOT. Changmin, Minki, Seongkwang, Yeongmin, and Jincheol gave lectures, and students from DGIST, KAIST, and Korea University actively participated. Thank you all so much! I plan to hold the event annually and make it more public and accessible (this time it was invitation-only and in Korean). I hope we can meet enthusiastic students again next year.
+(Jul. 2026) I organized and ran the DGIST Crypto Summer Camp during the first week of July! Prof. Youngsik Kim's [PAC Lab@DGIST](https://sites.google.com/view/pacl/home) helped A LOT. Changmin, Minki, Seongkwang, Yeongmin, and Jincheol gave lectures, and students from DGIST, KAIST, and Korea University actively participated. Thank you all so much! I plan to hold the event annually and make it more public and accessible (this time it was invitation-only and in Korean). I hope we can meet enthusiastic students again next year.
 
 (May 2026) Our paper on anamorphic encryption was accepted at **CRYPTO 2026**! 
 
-(Mar. 2026) I will give an invited talk at [ASK 2026](https://ask2026.github.io/) and attend [FSE 2026](https://fse.iacr.org/2026/). Update: We, the GAPS organizers, were awarded *the most chewing gum-ish talk* prize during the FSE 2026 rump session!
+(Mar. 2026) I gave an invited talk at [ASK 2026](https://ask2026.github.io/) and attend [FSE 2026](https://fse.iacr.org/2026/). Update: We, the GAPS organizers, were awarded *the most chewing gum-ish talk* prize during the FSE 2026 rump session!
 
 (Mar. 2026) I was awarded the Outstanding Young Scientist Grant to develop a unified framework for the concrete security of MPC.
 
@@ -64,15 +57,15 @@ Latest News
 
 (May 2025) I became an assistant professor at DGIST and started running the Cryptology and Information Security Lab.
 
-(Apr. 2025) Our paper on designing new AEADs dedicated to short input lengths was accepted at TCHES2025(3)/CHES2025.
+(Apr. 2025) Our paper on designing new AEADs dedicated to short input lengths was accepted at TCHES 2025(3) / CHES 2025.
 
 (Aug. 2024) Our paper on the tight security of nonce-misuse resistant MACs with KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home) was accepted at *ASIACRYPT 2024*.
 
 (Jul. 2024) I appreciate my co-authors for the work on efficient tweakable block ciphers accepted to ProvSec 2024.
 
-(May. 2024) My paper proposing new TBC-based AEADs has been accepted to DCC with my great colleagues in KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home).
+(May 2024) My paper proposing new TBC-based AEADs has been accepted to DCC with my great colleagues in KAIST [CRYPT LAB](https://sites.google.com/view/cryptlab/home).
 
-(May. 2024) My paper about the committing security of MACs was accepted to CRYPTO 2024! This is a joint work with my fantastic group of [ASK 2024](https://askworkshop.github.io/ask2023/).
+(May 2024) My paper about the committing security of MACs was accepted to CRYPTO 2024! This is a joint work with my fantastic group of [ASK 2024](https://askworkshop.github.io/ask2023/).
 
 (Apr. 2024)	I visited the University of Cincinnati during the third week of this month to collaborate with [Seungki Kim](https://sites.google.com/view/seungki/).
 
@@ -108,17 +101,17 @@ Talks
 Invited Talk at ASK 2026, Singapore, Mar. 2026.
 
   - “Cymric: Short-tailed but Mighty”\
-CHES 2025, Malaysia (Kuala Lumpur), Sep. 2025.\
+CHES 2025, Kuala Lumpur (Malaysia), Sep. 2025.\
 Invited Talk at 2025 GAPS Workshop, Singapore, Sep. 2025.
 
   - “On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”\
-Invited Talk at Radbound University, Nijmegen (the Netherlands), Mar. 2024.\
+Invited Talk at Radboud University, Nijmegen (the Netherlands), Mar. 2024.\
 Invited Talk at DESILO, Seoul (Korea), Dec. 2023.\
 Invited Talk at ASK 2023, Guangzhou (China), Dec. 2023.
 
   - “Improved Multi-User Security Using the Squared-Ratio Method”\
 CRYPTO 2023, Santa Barbara (CA), Aug. 2023.\
-Athecrypt 2023, Athens (Greece), May. 2023.\
+Athecrypt 2023, Athens (Greece), May 2023.\
 Invited Talk at NEC Core Technology Forum, Kanagawa (Japan), Dec. 2022.
 
   - “Multi-User Security of the Sum of Truncated Random Permutations”\
@@ -133,7 +126,7 @@ National Cryptography Contest Awards, Seoul (Korea), Oct. 2021.
 
   - “Indifferentiability of Truncated Random Permutations”\
 ASIACRYPT 2019, Kobe (Japan), Dec. 2019.\
-Invited Talk at Korea Cryptography Forum Workshop, Gyeonggi (Korea), May. 2019.\
+Invited Talk at Korea Cryptography Forum Workshop, Gyeonggi (Korea), May 2019.\
 National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
 
@@ -154,16 +147,6 @@ Teaching and Advising
 **Co-supervised PhD Students**
   - Won Kim (Korea University; co-supervised with Prof. Changmin Lee)
 
-<!---
-
-Reviews
------
-Review: FSE 2025 (ToSC 2024/2025), ASIACRYPT 2024, ISC 2024, FSE 2024 (ToSC 2023/2024)\
-Subreview: CRYPTO 2024, EUROCRYPT 2024, ACNS 2023, EUROCRYPT 2023, and LATINCRYPT 2023\
-External Review: FSE 2022, ASIACRYPT 2020, ASIACRYPT 2019, ICISC 2018, and ProvSec 2018
-
--->
-
 
 Publication List
 -----
@@ -171,9 +154,9 @@ Publication List
 
   - Wonseok Choi, Xiangyu Liu, and Vassilis Zikas, “Blockchain Governance via Sharp Anonymous Multisignatures”, AFT 2025.
 
-  - Alexandre Adomnicăi, Wonseok Choi, Yeongmin Lee, Yusuke Naito, and Kazuhiko Minematsu, “Cymric: Short-tailed but Mighty”, *TCHES 2025(3)/CHES 2025*.
+  - Alexandre Adomnicăi, Wonseok Choi, Yeongmin Lee, Yusuke Naito, and Kazuhiko Minematsu, “Cymric: Short-tailed but Mighty”, *TCHES 2025(3) / CHES 2025*.
 
-  - Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Tight Security of Double-Block Nonce-Based MACs”, **ASIACRYPT 2024**.
+  - Wonseok Choi, Jooyoung Lee, and Yeongmin Lee, “Toward Full n-bit Security and Nonce Misuse Resistance of Block Cipher-based MACs”, **ASIACRYPT 2024**.
 
   - Ritam Bhaumik, Wonseok Choi, Avijit Dutta, Cuauhtemoc Mancillas Lopez, Hrithik Nandi, and Yaobin Shen, “Efficient Variants of TNT with BBB Security”, ProvSec 2024.
 
@@ -197,26 +180,6 @@ Publication List
 
   - Wonseok Choi, Byeonghak Lee, and Jooyoung Lee, “Indifferentiability of Truncated Random Permutations”, **ASIACRYPT 2019**.
 
-<!---
-
-Preprint
------
-
-Wonseok Choi, Minki Hhan, Yu Wei, and Vassilis Zikas, “On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications”, [Eprint:2023/1704](https://eprint.iacr.org/2023/1704).
 
 
-Grants
------
-**Sejong Science Fellowship** (147 million KRW, Sep. 2023 - Aug. 2025)\
-“Building Efficient Symmetric-Key Primitives for Secure Multi-Party Computation”\
-Supported by National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)
-
-KIAS Individual Grant (22.5 million KRW, Sep. 2022 - Mar. 2023)\
-“Designing and Analysis of Cryptographic Pseudorandom Functions”\
-Supported by Korea Institute for Advanced Study
-
-*1 million KRW ≈ 700 USD
--->
-
-
-Last Update: 11/SEP/2026
+Last Update: 25/SEP/2026
