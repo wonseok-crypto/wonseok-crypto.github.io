@@ -27,6 +27,8 @@ I lead the Cryptology and Information Security Lab at DGIST. Our research focuse
 1. AI security and privacy, with a focus on physical AI (e.g., robotics and autonomous systems).
 
 
+**Visits and Internships.** I am happy to host visitors at DGIST, from students to senior researchers, for stays of a few days to several months. If you are a prospective student, I recommend starting with an undergraduate internship before applying to graduate school. If you would like to work together on any of the topics above, please contact me.
+
 
 
 Latest News
