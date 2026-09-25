@@ -12,7 +12,7 @@ I am Wonseok Choi (최원석, 崔元碩), an assistant professor in the EECS dep
 
 My research interests include cryptography (e.g., symmetric-key, public-key, MPC, quantum, and post-quantum) and related topics in cryptology and mathematics. I aim to establish precise security models or requirements for each problem, define appropriate notions, and conduct thorough analyses.
 
-I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). My postdoctoral research focused on Byzantine fault-tolerant protocols and on applications of cryptography, such as digital signatures for e-voting and blockchain. I also worked (and am still working) on messaging protocols and anamorphic encryption.
+I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://faculty.cc.gatech.edu/~vzikas/). My postdoctoral research focused on Byzantine fault-tolerant protocols and on various applications of cryptography, such as digital signatures, blockchain, anamorphic encryption, and secure messaging.
 Before that, I was a research fellow at KIAS, where I worked on symmetric-key cryptography and provable security methodologies, mentored by [Changmin Lee](https://pqsnc.korea.ac.kr/home).
 
 I received my Ph.D. from KAIST, where I was advised by [Jooyoung Lee](https://sites.google.com/view/cryptlab/home). During my Ph.D., I focused on provable security in symmetric-key cryptography. My thesis was titled "Study on Building Pseudorandom Functions from Cryptographic Primitives."
@@ -20,9 +20,11 @@ I received my Ph.D. from KAIST, where I was advised by [Jooyoung Lee](https://si
 
 I am currently running the Cryptology and Information Security Lab at DGIST. Our research focuses on:
 
-1. Security analysis and proofs of cryptographic algorithms and protocols; and
+1. Security analysis and proofs of cryptographic algorithms and protocols;
 
-1. Designing algorithms and protocols for multi-party computation, blockchain, and related areas.
+1. Designing algorithms and protocols for multi-party computation, blockchain, AI, and related areas; and
+
+1. AI security and privacy, focused on the physical AI setting
 
 
 
@@ -37,7 +39,7 @@ Before studying cryptography, I majored in mathematics at KAIST for my master's 
 Latest News
 ------
 
-(Sep. 2026) Be a recipient of the AI Top-Tier Early-Career Researcher Support (11 billion KRW / 10 researchers for 6 years)!
+(Sep. 2026) Be a recipient of the AI Star Fellowship (11 billion KRW / 10 researchers for 6 years)!
 
 (Jul. 2026) I organized and ran the DGIST Crypto Summer Camp during the first week of July! Members of [PAC Lab@DGIST](https://sites.google.com/view/pacl/home) helped A LOT. Changmin, Minki, Seongkwang, Yeongmin, and Jincheol gave lectures, and students from DGIST, KAIST, and Korea University actively participated. Thank you all so much! I plan to hold the event annually and make it more public and accessible (this time it was invitation-only and in Korean). I hope we can meet enthusiastic students again next year.
 
