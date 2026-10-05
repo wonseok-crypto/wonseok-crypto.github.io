@@ -10,7 +10,7 @@ redirect_from:
 
 I am Wonseok Choi (최원석, 崔元碩), an assistant professor in the EECS department at DGIST, Korea. 
 
-My research interests include cryptography (e.g., symmetric-key, public-key, MPC, quantum, and post-quantum) and related topics in cryptology and mathematics. I aim to establish precise security models or requirements for each problem, define appropriate notions, and conduct thorough analyses.
+My research interests include the theory of cryptography (e.g., symmetric-key, public-key, MPC, quantum, and post-quantum) and related topics in cryptology and mathematics. I aim to establish precise security models or requirements for each problem, define appropriate notions, and conduct thorough analyses.
 
 I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://faculty.cc.gatech.edu/~vzikas/). My postdoctoral research focused on Byzantine fault-tolerant protocols and on various applications of cryptography, such as digital signatures, blockchain, anamorphic encryption, and secure messaging.
 Before that, I was a research fellow at KIAS, where I worked on symmetric-key cryptography and provable security methodologies, mentored by [Changmin Lee](https://pqsnc.korea.ac.kr/home).
@@ -27,8 +27,7 @@ I lead the Cryptology and Information Security Lab at DGIST. Our research focuse
 1. AI security and privacy, with a focus on physical AI (e.g., robotics and autonomous systems).
 
 
-**Visits and Internships.** I am happy to host visitors at DGIST, from students to senior researchers, for stays of a few days to several months. If you are a prospective student, I recommend starting with an undergraduate internship before applying to graduate school. If you would like to work together on any of the topics above, please contact me.
-
+**Visits and Internships.** I am happy to host visitors at DGIST, from students to senior researchers, for stays of a few days to several months. If you are a prospective student with a strong *math/theoretical CS* background, I recommend starting with an undergraduate internship before applying to graduate school.
 
 
 Latest News
@@ -184,4 +183,4 @@ Publication List
 
 
 
-Last Update: 25/SEP/2026
+Last Update: 5/OCT/2026
