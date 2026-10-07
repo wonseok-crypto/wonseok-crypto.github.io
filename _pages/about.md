@@ -33,6 +33,8 @@ I lead the Cryptology and Information Security Lab at DGIST. Our research focuse
 Latest News
 ------
 
+(Oct. 2026) Prof. Changmin Lee and I were awarded the DGIST-Korea University Co-Seed Funding for Cryptographic Consensus Protocols for AI. 
+
 (Sep. 2026) I was selected as one of 10 researchers on an AI Star Fellowship project (MSIT/IITP; 11 billion KRW over 6 years)
 
 (Jul. 2026) I organized and ran the DGIST Crypto Summer Camp during the first week of July! Prof. Youngsik Kim's [PAC Lab@DGIST](https://sites.google.com/view/pacl/home) helped A LOT. Changmin, Minki, Seongkwang, Yeongmin, and Jincheol gave lectures, and students from DGIST, KAIST, and Korea University actively participated. Thank you all so much! I plan to hold the event annually and make it more public and accessible (this time it was invitation-only and in Korean). I hope we can meet enthusiastic students again next year.
@@ -183,4 +185,4 @@ Publication List
 
 
 
-Last Update: 5/OCT/2026
+Last Update: 7/OCT/2026
