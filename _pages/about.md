@@ -33,7 +33,7 @@ I lead the Cryptology and Information Security Lab at DGIST. Our research focuse
 Latest News
 ------
 
-(Oct. 2026) Prof. Changmin Lee and I were awarded the DGIST-Korea University Co-Seed Funding for Cryptographic Consensus Protocols for AI. 
+(Oct. 2026) Prof. Changmin Lee and I were awarded the DGIST-Korea University Co-Seed Funding for Cryptographic Consensus Protocols for Physical AI. 
 
 (Sep. 2026) I was selected as one of 10 researchers on an AI Star Fellowship project (MSIT/IITP; 11 billion KRW over 6 years)
 
