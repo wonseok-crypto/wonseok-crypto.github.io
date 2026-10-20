@@ -10,7 +10,7 @@ redirect_from:
 
 I am Wonseok Choi (최원석, 崔元碩), an assistant professor in the EECS department at DGIST, Korea. 
 
-My research interests include the theory of cryptography (e.g., symmetric-key, public-key, MPC, quantum, and post-quantum) and related topics in cryptology and mathematics. I aim to establish precise security models or requirements for each problem, define appropriate notions, and conduct thorough analyses.
+My research interests include the theory of cryptography and related topics in cryptology and mathematics. I aim to establish precise security models or requirements for each problem, define appropriate notions, and conduct thorough analyses.
 
 I was a postdoc at Purdue University and Georgia Tech, working with [Vassilis Zikas](https://faculty.cc.gatech.edu/~vzikas/). My postdoctoral research focused on Byzantine fault-tolerant protocols and on various applications of cryptography, such as digital signatures, blockchain, anamorphic encryption, and secure messaging.
 Before that, I was a research fellow at KIAS, where I worked on symmetric-key cryptography and provable security methodologies, mentored by [Changmin Lee](https://pqsnc.korea.ac.kr/home).
@@ -98,9 +98,12 @@ Professional Activities
   - ISC 2024-2026
   - ASIACRYPT 2024
 
+<!---
 
 Talks
 -----
+anamorphic encryption: KAIST, Korea University, HK PolyU?
+  
   - “On Reduced Key Spaces of Even-Mansour Ciphers”\
 Invited Talk at ASK 2026, Singapore, Mar. 2026.
 
@@ -133,6 +136,7 @@ ASIACRYPT 2019, Kobe (Japan), Dec. 2019.\
 Invited Talk at Korea Cryptography Forum Workshop, Gyeonggi (Korea), May 2019.\
 National Cryptography Contest Awards, Seoul (Korea), Nov. 2018.
 
+-->
 
 Teaching and Advising
 -----
@@ -141,9 +145,10 @@ Teaching and Advising
   - DGIST CSE405 Computer Security (2026 Spring)
   - DGIST CSE301 Computer Algorithms (2025 Fall)
 
-**Post-Docs** (co-supervised with Prof. Youngsik Kim / InnoCORE Fellowship)
-  - Mincheol Son (formerly a PhD student at KAIST)
-  - Sunyeop Kim (Starting in 2026 Winter)
+**Post-Docs** 
+  - Mincheol Son (formerly a PhD student at KAIST, co-supervised with Prof. Youngsik Kim)
+  - Sunyeop Kim (starting in December, co-supervised with Prof. Youngsik Kim)
+  - Abishanka Saha (starting in January)
 
 **PhD Students**
   - Wookjin Choi (formerly an assistant professor at Kyoto University)
@@ -186,4 +191,4 @@ Publication List
 
 
 
-Last Update: 7/OCT/2026
+Last Update: 20/OCT/2026
