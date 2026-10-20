@@ -30,6 +30,7 @@ I lead the Cryptology and Information Security Lab at DGIST. Our research focuse
 
 **Visits and Internships.** I am happy to host visitors at DGIST, from students to senior researchers, for stays of a few days to several months. If you are a prospective student with a strong *math/theoretical CS* background, I recommend starting with an undergraduate internship before applying to graduate school.
 
+**Post-Doc Opening.** There is one postdoctoral position available supported by the AI Star Fellowship project. The successful candidate will work on topics in AI security and privacy and collaborate with other faculty members in the project. Candidates must have publications at top cryptography or security venues (CRYPTO, EUROCRYPT, ASIACRYPT, CCS, IEEE S&P, USENIX Security). We may also consider exceptional candidates with publications on relevant topics at top AI venues.
 
 Latest News
 ------
