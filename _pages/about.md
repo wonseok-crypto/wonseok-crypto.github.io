@@ -35,7 +35,7 @@ I lead the Cryptology and Information Security Lab at DGIST. Our research focuse
 Latest News
 ------
 
-(Nov. 2026) Our project on AI-based design and verification of electrification components in a digital twin environment was selected for the 4극3특 Science and Technology Innovation Support Program (MSIT, Daegu-Gyeongbuk). I will work on provable security, message authentication, and integrity verification for virtual ECUs (640 million KRW, shared with Prof. Yongwoo Lee).
+(Nov. 2026) Our project on AI-based design and verification of electrification components in a digital twin environment was selected for the 4 Pole 3 Special Regions Science and Technology Innovation Support Program (MSIT, Daegu-Gyeongbuk). I will work on provable security, message authentication, and integrity verification for virtual ECUs (640 million KRW, shared with Prof. Yongwoo Lee).
 
 (Oct. 2026) Prof. Changmin Lee and I were awarded the DGIST-Korea University Co-Seed Funding for Cryptographic Consensus Protocols for Physical AI. 
 
