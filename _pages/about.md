@@ -49,7 +49,9 @@ Latest News
 
 (Mar. 2026) I was awarded the Outstanding Young Scientist Grant to develop a unified framework for the concrete security of MPC.
 
+<!--
 (Jul. 2025) Our paper on sharp anonymous multisignatures, co-authored with [Xiangyu](https://xiangyuliu-yahoo.github.io/) and Vassilis, was accepted at AFT 2025.
+-->
 
 
 
