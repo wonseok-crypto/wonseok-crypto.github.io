@@ -35,7 +35,7 @@ I lead the Cryptology and Information Security Lab at DGIST. Our research focuse
 Latest News
 ------
 
-(Nov. 2026) Our project, led by DGIST, was selected for the 4 Pole 3 Special Regions Science and Technology Innovation Support Program (MSIT, Daegu-Gyeongbuk). AS part of this large project (12.4 billion KRW / 8 institutions), I will work on the cybersecurity side of the project (640 million KRW / 2 researchers).
+(Nov. 2026) Our project, led by DGIST, was selected for the 4 Pole 3 Special Regions Science and Technology Innovation Support Program (MSIT, Daegu-Gyeongbuk). AS part of this large project (12.4 billion KRW / 8 institutions for 5 years), I will work on the cybersecurity side of the project (640 million KRW / 2 researchers).
 
 (Oct. 2026) Prof. Changmin Lee and I were awarded the DGIST-Korea University Co-Seed Funding for Cryptographic Consensus Protocols for Physical AI. 
 
