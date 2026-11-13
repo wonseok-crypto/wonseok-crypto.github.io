@@ -35,7 +35,7 @@ I lead the Cryptology and Information Security Lab at DGIST. Our research focuse
 Latest News
 ------
 
-(Nov. 2026) Our project on AI-based design and verification of electrification components in a digital twin environment was selected for the 4 Pole 3 Special Regions Science and Technology Innovation Support Program (MSIT, Daegu-Gyeongbuk). I will work on provable security, message authentication, and integrity verification for virtual ECUs (640 million KRW, shared with Prof. Yongwoo Lee).
+(Nov. 2026) Our project, led by DGIST, was selected for the 4 Pole 3 Special Regions Science and Technology Innovation Support Program (MSIT, Daegu-Gyeongbuk). AS part of this large project (12.4 billion KRW / 8 institutions), I will work on the cybersecurity side of the project (640 million KRW / 2 researchers).
 
 (Oct. 2026) Prof. Changmin Lee and I were awarded the DGIST-Korea University Co-Seed Funding for Cryptographic Consensus Protocols for Physical AI. 
 
@@ -51,16 +51,6 @@ Latest News
 
 <!--
 (Jul. 2025) Our paper on sharp anonymous multisignatures, co-authored with [Xiangyu](https://xiangyuliu-yahoo.github.io/) and Vassilis, was accepted at AFT 2025.
--->
-
-
-
-
-
-
-
-
-<!---
 
 (Jul. 2025) I am visiting Ruhr-University of Bochum for a month, hosted by [Ashwin Jha](https://ashwin-jha.github.io/) and Gregor Leander.
 
