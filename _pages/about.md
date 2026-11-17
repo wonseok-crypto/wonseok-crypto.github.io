@@ -156,7 +156,7 @@ Teaching and Advising
 
 Publication List
 -----
-  - Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta (IAI/TCG Crest), Jérôme Govinden, and Yaobin Shen, “Symmetry Meets Security: Tweakable Involution Ciphers”, AsiaCCS 2027, to appear.
+  - Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, Jérôme Govinden, and Yaobin Shen, “Symmetry Meets Security: Tweakable Involution Ciphers”, AsiaCCS 2027, to appear.
 
   - Wonseok Choi, Daniel Collins, Xiangyu Liu, Roy Stracovsky, and Vassilis Zikas, “A Unified Treatment of Anamorphic Encryption”, **CRYPTO 2026**.
 
