@@ -37,7 +37,7 @@ Latest News
 
 (Nov. 2026) Our paper on tweakable involution ciphers, co-authored with Avijit, Ritam, Bishwajit, Jérôme, and Yaobin, was accepted at AsiaCCS 2027.
 
-(Nov. 2026) Our project, led by DGIST, was selected for the 4 Pole 3 Special Regions Science and Technology Innovation Support Program (MSIT, Daegu-Gyeongbuk). AS part of this large project (12.4 billion KRW / 8 institutions for 5 years), I will work on the cybersecurity side of the project (640 million KRW / 2 researchers).
+(Nov. 2026) Our project, led by DGIST, was selected for the 4 Pole 3 Special Regions Science and Technology Innovation Support Program (MSIT, Daegu-Gyeongbuk). As part of this large project (12.4 billion KRW / 8 institutions for 5 years), I will work on the cybersecurity side of the project (640 million KRW / 2 researchers).
 
 (Oct. 2026) Prof. Changmin Lee and I were awarded the DGIST-Korea University Co-Seed Funding for Cryptographic Consensus Protocols for Physical AI. 
 
@@ -47,7 +47,7 @@ Latest News
 
 (May 2026) Our paper on anamorphic encryption was accepted at **CRYPTO 2026**! 
 
-(Mar. 2026) I gave an invited talk at [ASK 2026](https://ask2026.github.io/) and attend [FSE 2026](https://fse.iacr.org/2026/). Update: We, the GAPS organizers, were awarded *the most chewing gum-ish talk* prize during the FSE 2026 rump session!
+(Mar. 2026) I gave an invited talk at [ASK 2026](https://ask2026.github.io/) and attended [FSE 2026](https://fse.iacr.org/2026/). Update: We, the GAPS organizers, were awarded *the most chewing gum-ish talk* prize during the FSE 2026 rump session!
 
 (Mar. 2026) I was awarded the Outstanding Young Scientist Grant to develop a unified framework for the concrete security of MPC.
 
